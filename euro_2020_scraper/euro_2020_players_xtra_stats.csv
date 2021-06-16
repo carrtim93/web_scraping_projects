@@ -1,0 +1,622 @@
+Surname,Name,Country,Position,Club,Age,SquadNo,Games Played,MinsPlayed,Goals,GoalsConceded,YCards,RCards
+Alexander,Schlager,AUT,Goalkeeper,LASK,25,1,0,0,0,0,0,0
+Pavao,Pervan,AUT,Goalkeeper,Wolfsburg,33,12,0,0,0,0,0,0
+Daniel,Bachmann,AUT,Goalkeeper,Watford,26,13,1,90,0,1,0,0
+Andreas,Ulmer,AUT,Defender,Salzburg,35,2,1,90,0,0,0,0
+Aleksandar,Dragović,AUT,Defender,Leverkusen,30,3,1,45,0,0,0,0
+Martin,Hinteregger,AUT,Defender,Frankfurt,28,4,1,90,0,0,0,0
+Stefan,Posch,AUT,Defender,Hoffenheim,24,5,0,0,0,0,0,0
+David,Alaba,AUT,Defender,Bayern,28,8,1,90,0,0,0,0
+Philipp,Lienhart,AUT,Defender,Freiburg,24,15,1,45,0,0,0,0
+Stefan,Lainer,AUT,Defender,Mönchengladbach,28,21,1,90,1,0,1,0
+Marco,Friedl,AUT,Defender,Bayern,23,26,0,0,0,0,0,0
+Stefan,Ilsanker,AUT,Midfielder,Frankfurt,32,6,1,1,0,0,0,0
+Marcel,Sabitzer,AUT,Midfielder,Leipzig,27,9,1,90,0,0,0,0
+Florian,Grillitsch,AUT,Midfielder,Hoffenheim,25,10,0,0,0,0,0,0
+Julian,Baumgartlinger,AUT,Midfielder,Leverkusen,33,14,1,1,0,0,0,0
+Christopher,Trimmel,AUT,Midfielder,Union Berlin,34,16,0,0,0,0,0,0
+Louis,Schaub,AUT,Midfielder,Luzern,26,17,0,0,0,0,0,0
+Alessandro,Schöpf,AUT,Midfielder,Schalke,27,18,0,0,0,0,0,0
+Christoph,Baumgartner,AUT,Midfielder,Hoffenheim,21,19,1,58,0,0,0,0
+Karim,Onisiwo,AUT,Midfielder,Mainz,29,20,0,0,0,0,0,0
+Valentino,Lazaro,AUT,Midfielder,Mönchengladbach,25,22,0,0,0,0,0,0
+Xaver,Schlager,AUT,Midfielder,Wolfsburg,23,23,1,89,0,0,0,0
+Konrad,Laimer,AUT,Midfielder,Leipzig,24,24,1,89,0,0,0,0
+Marko,Arnautović,AUT,Forward,Shanghai SIPG,32,7,1,31,1,0,0,0
+Michael,Gregoritsch,AUT,Forward,Augsburg,27,11,1,32,1,0,0,0
+Sasa,Kalajdzic,AUT,Forward,Stuttgart,23,25,1,59,0,0,0,0
+Thibaut,Courtois,BEL,Goalkeeper,Real Madrid,29,1,1,90,0,1,0,0
+Simon,Mignolet,BEL,Goalkeeper,Club Brugge,33,12,0,0,0,0,0,0
+Matz,Sels,BEL,Goalkeeper,Strasbourg,29,13,0,0,0,0,0,0
+Toby,Alderweireld,BEL,Defender,Tottenham,32,2,1,90,0,0,0,0
+Thomas,Vermaelen,BEL,Defender,Vissel Kobe,35,3,1,13,0,0,0,0
+Dedryck,Boyata,BEL,Defender,Hertha,30,4,1,90,0,0,0,0
+Jan,Vertonghen,BEL,Defender,Benfica,34,5,1,77,0,0,0,0
+Thomas,Meunier,BEL,Defender,Dortmund,29,15,1,63,1,0,0,0
+Jason,Denayer,BEL,Defender,Lyon,25,18,0,0,0,0,0,0
+Timothy,Castagne,BEL,Defender,Leicester,25,21,1,27,0,0,0,0
+Axel,Witsel,BEL,Midfielder,Dortmund,32,6,0,0,0,0,0,0
+Kevin,De Bruyne,BEL,Midfielder,Man. City,29,7,0,0,0,0,0,0
+Youri,Tielemans,BEL,Midfielder,Leicester,24,8,1,90,0,0,0,0
+Eden,Hazard,BEL,Midfielder,Real Madrid,30,10,1,18,0,0,0,0
+Yannick,Carrasco,BEL,Midfielder,Atlético,27,11,1,77,0,0,0,0
+Thorgan,Hazard,BEL,Midfielder,Dortmund,28,16,1,90,0,0,0,0
+Hans,Vanaken,BEL,Midfielder,Club Brugge,28,17,0,0,0,0,0,0
+Leander,Dendoncker,BEL,Midfielder,Wolves,26,19,1,90,0,0,0,0
+Nacer,Chadli,BEL,Midfielder,İstanbul Başakşehir,31,22,0,0,0,0,0,0
+Dennis,Praet,BEL,Midfielder,Leicester,27,26,1,13,0,0,0,0
+Romelu,Lukaku,BEL,Forward,Internazionale,28,9,1,90,2,0,0,0
+Dries,Mertens,BEL,Forward,Napoli,34,14,1,72,0,0,0,0
+Christian,Benteke,BEL,Forward,Crystal Palace,30,20,0,0,0,0,0,0
+Michy,Batshuayi,BEL,Forward,Crystal Palace,27,23,0,0,0,0,0,0
+Leandro,Trossard,BEL,Forward,Brighton,26,24,0,0,0,0,0,0
+Jeremy,Doku,BEL,Forward,Rennes,19,25,0,0,0,0,0,0
+Dominik,Livaković,CRO,Goalkeeper,Dinamo Zagreb,26,1,1,90,0,1,0,0
+Lovre,Kalinić,CRO,Goalkeeper,Aston Villa,31,12,0,0,0,0,0,0
+Simon,Sluga,CRO,Goalkeeper,Luton,28,23,0,0,0,0,0,0
+Šime,Vrsaljko,CRO,Defender,Atlético,29,2,1,90,0,0,0,0
+Borna,Barišić,CRO,Defender,Rangers,28,3,0,0,0,0,0,0
+Duje,Ćaleta-Car,CRO,Defender,Marseille,24,5,1,90,0,0,1,0
+Dejan,Lovren,CRO,Defender,Zenit,31,6,0,0,0,0,0,0
+Mile,Škorić,CRO,Defender,Osijek,29,16,0,0,0,0,0,0
+Domagoj,Vida,CRO,Defender,Beşiktaş,32,21,1,90,0,0,0,0
+Josip,Juranović,CRO,Defender,Legia,25,22,0,0,0,0,0,0
+Domagoj,Bradarić,CRO,Defender,LOSC,21,24,0,0,0,0,0,0
+Joško,Gvardiol,CRO,Defender,Dinamo Zagreb,19,25,1,90,0,0,0,0
+Ivan,Perišić,CRO,Midfielder,Internazionale,32,4,1,90,0,0,0,0
+Mateo,Kovačić,CRO,Midfielder,Chelsea,27,8,1,85,0,0,1,0
+Luka,Modrić,CRO,Midfielder,Real Madrid,35,10,1,90,0,0,0,0
+Marcelo,Brozović,CRO,Midfielder,Internazionale,28,11,1,70,0,0,1,0
+Nikola,Vlašić,CRO,Midfielder,CSKA Moskva,23,13,1,20,0,0,0,0
+Mario,Pašalić,CRO,Midfielder,Atalanta,26,15,1,5,0,0,0,0
+Mislav,Oršić,CRO,Midfielder,Dinamo Zagreb,28,18,0,0,0,0,0,0
+Milan,Badelj,CRO,Midfielder,Genoa,32,19,0,0,0,0,0,0
+Luka,Ivanušec,CRO,Midfielder,Dinamo Zagreb,22,26,0,0,0,0,0,0
+Josip,Brekalo,CRO,Forward,Dinamo Zagreb,22,7,1,20,0,0,0,0
+Andrej,Kramarić,CRO,Forward,Hoffenheim,29,9,1,70,0,0,0,0
+Ante,Budimir,CRO,Forward,Osasuna,29,14,0,0,0,0,0,0
+Ante,Rebić,CRO,Forward,Milan,27,17,1,78,0,0,0,0
+Bruno,Petković,CRO,Forward,Dinamo Zagreb,26,20,1,12,0,0,0,0
+Tomáš,Vaclík,CZE,Goalkeeper,Sevilla,32,1,1,90,0,6,0,0
+Aleš,Mandous,CZE,Goalkeeper,Sigma,29,16,0,0,0,0,0,0
+Tomáš,Koubek,CZE,Goalkeeper,Augsburg,28,23,0,0,0,0,0,0
+Pavel,Kadeřábek,CZE,Defender,Hoffenheim,29,2,0,0,0,0,0,0
+Ondřej,Čelůstka,CZE,Defender,Sparta Praha,31,3,1,90,0,0,0,0
+Jakub,Brabec,CZE,Defender,Plzeň,28,4,0,0,0,0,0,0
+Vladimír,Coufal,CZE,Defender,West Ham,28,5,1,90,0,0,0,0
+Tomáš,Kalas,CZE,Defender,Bristol City,28,6,1,90,0,0,0,0
+Tomáš,Holeš,CZE,Defender,Slavia Praha,28,9,1,23,0,0,0,0
+David,Zima,CZE,Defender,Slavia Praha,20,17,0,0,0,0,0,0
+Jan,Bořil,CZE,Defender,Slavia Praha,30,18,1,90,0,0,0,0
+Aleš,Matějů,CZE,Defender,Brescia,25,22,0,0,0,0,0,0
+Antonín,Barák,CZE,Midfielder,Verona,26,7,0,0,0,0,0,0
+Vladimír,Darida,CZE,Midfielder,Hertha,30,8,1,87,0,0,0,0
+Lukáš,Masopust,CZE,Midfielder,Slavia Praha,28,12,1,72,0,0,0,0
+Petr,Ševčík,CZE,Midfielder,Slavia Praha,27,13,1,3,0,0,0,0
+Jakub,Jankto,CZE,Midfielder,Sampdoria,25,14,1,72,0,0,0,0
+Tomáš,Souček,CZE,Midfielder,West Ham,26,15,1,90,0,0,0,0
+Alex,Král,CZE,Midfielder,Spartak Moskva,23,21,1,67,0,0,0,0
+Jakub,Pešek,CZE,Midfielder,Liberec,27,25,0,0,0,0,0,0
+Michal,Sadílek,CZE,Midfielder,PSV,22,26,0,0,0,0,0,0
+Patrik,Schick,CZE,Forward,Leverkusen,25,10,1,87,2,0,0,0
+Michael,Krmenčík,CZE,Forward,Club Brugge,28,11,1,3,0,0,0,0
+Adam,Hložek,CZE,Forward,Sparta Praha,18,19,1,18,0,0,0,0
+Matěj,Vydra,CZE,Forward,Burnley,29,20,1,18,0,0,0,0
+Tomáš,Pekhart,CZE,Forward,Legia,32,24,0,0,0,0,0,0
+Kasper,Schmeichel,DEN,Goalkeeper,Leicester,34,1,1,90,0,0,0,0
+Jonas,Lössl,DEN,Goalkeeper,Midtjylland,32,16,0,0,0,0,0,0
+Frederik,Rønnow,DEN,Goalkeeper,Frankfurt,28,22,0,0,0,0,0,0
+Joachim,Andersen,DEN,Defender,Lyon,25,2,0,0,0,0,0,0
+Jannik,Vestergaard,DEN,Defender,Southampton,28,3,1,27,0,0,0,0
+Simon,Kjær,DEN,Defender,Milan,32,4,1,63,0,0,0,0
+Joakim,Mæhle,DEN,Defender,Atalanta,24,5,1,90,0,0,0,0
+Andreas,Christensen,DEN,Defender,Chelsea,25,6,1,90,0,0,0,0
+Mathias,Jørgensen,DEN,Defender,Fenerbahçe,31,13,0,0,0,0,0,0
+Jens,Stryger,DEN,Defender,Udinese,30,17,1,14,0,0,0,0
+Nicolai,Boilesen,DEN,Defender,Copenhagen,29,26,0,0,0,0,0,0
+Robert,Skov,DEN,Midfielder,Hoffenheim,25,7,0,0,0,0,0,0
+Thomas,Delaney,DEN,Midfielder,Dortmund,29,8,1,76,0,0,0,0
+Christian,Eriksen,DEN,Midfielder,Internazionale,29,10,1,43,0,0,0,0
+Christian,Nørgaard,DEN,Midfielder,Brentford,27,15,0,0,0,0,0,0
+Daniel,Wass,DEN,Midfielder,Valencia,32,18,1,76,0,0,0,0
+Pierre-Emile,Højbjerg,DEN,Midfielder,Tottenham,25,23,1,90,0,0,0,0
+Mathias,Jensen,DEN,Midfielder,Horsens,25,24,1,48,0,0,0,0
+Anders,Christiansen,DEN,Midfielder,Malmö,31,25,0,0,0,0,0,0
+Martin,Braithwaite,DEN,Forward,Barcelona,30,9,1,90,0,0,0,0
+Andreas,Skov Olsen,DEN,Forward,Bologna,21,11,1,27,0,0,0,0
+Kasper,Dolberg,DEN,Forward,Nice,23,12,0,0,0,0,0,0
+Mikkel,Damsgaard,DEN,Forward,Sampdoria,20,14,0,0,0,0,0,0
+Jonas,Wind,DEN,Forward,Copenhagen,22,19,1,63,0,0,0,0
+Yussuf,Poulsen,DEN,Forward,Leipzig,27,20,1,90,0,0,0,0
+Andreas,Cornelius,DEN,Forward,Atalanta,28,21,1,14,0,0,0,0
+Jordan,Pickford,ENG,Goalkeeper,Everton,27,1,1,90,0,1,0,0
+Aaron,Ramsdale,ENG,Goalkeeper,Sheff. United,23,13,0,0,0,0,0,0
+Sam,Johnstone,ENG,Goalkeeper,West Brom,28,23,0,0,0,0,0,0
+Kyle,Walker,ENG,Defender,Man. City,31,2,1,90,0,0,0,0
+Luke,Shaw,ENG,Defender,Man. United,25,3,0,0,0,0,0,0
+John,Stones,ENG,Defender,Man. City,27,5,1,90,0,0,0,0
+Harry,Maguire,ENG,Defender,Man. United,28,6,0,0,0,0,0,0
+Kieran,Trippier,ENG,Defender,Atlético,30,12,1,90,0,0,0,0
+Tyrone,Mings,ENG,Defender,Aston Villa,28,15,1,90,0,0,0,0
+Conor,Coady,ENG,Defender,Wolves,28,16,0,0,0,0,0,0
+Ben,Chilwell,ENG,Defender,Chelsea,24,21,0,0,0,0,0,0
+Ben,White,ENG,Defender,Brighton,23,22,0,0,0,0,0,0
+Reece,James,ENG,Defender,Chelsea,21,24,0,0,0,0,0,0
+Declan,Rice,ENG,Midfielder,West Ham,22,4,1,90,0,0,0,0
+Jack,Grealish,ENG,Midfielder,Aston Villa,25,7,0,0,0,0,0,0
+Jordan,Henderson,ENG,Midfielder,Liverpool,30,8,0,0,0,0,0,0
+Kalvin,Phillips,ENG,Midfielder,Leeds,25,14,1,90,0,0,0,0
+Jadon,Sancho,ENG,Midfielder,Dortmund,21,17,0,0,0,0,0,0
+Mason,Mount,ENG,Midfielder,Chelsea,22,19,1,90,0,0,0,0
+Phil,Foden,ENG,Midfielder,Man. City,21,20,1,71,0,0,1,0
+Bukayo,Saka,ENG,Midfielder,Arsenal,19,25,0,0,0,0,0,0
+Jude,Bellingham,ENG,Midfielder,Dortmund,17,26,1,8,0,0,0,0
+Harry,Kane,ENG,Forward,Tottenham,27,9,1,82,0,0,0,0
+Raheem,Sterling,ENG,Forward,Man. City,26,10,1,89,1,0,0,0
+Marcus,Rashford,ENG,Forward,Man. United,23,11,1,19,0,0,0,0
+Dominic,Calvert-Lewin,ENG,Forward,Everton,24,18,1,1,0,0,0,0
+Lukas,Hradecky,FIN,Goalkeeper,Leverkusen,31,1,2,180,0,8,0,0
+Jesse,Joronen,FIN,Goalkeeper,Brescia,28,12,0,0,0,0,0,0
+Anssi,Jaakkola,FIN,Goalkeeper,Bristol Rovers,34,23,0,0,0,0,0,0
+Paulus,Arajuuri,FIN,Defender,Pafos,33,2,2,180,0,0,0,0
+Daniel,O'Shaughnessy,FIN,Defender,HJK,26,3,2,180,0,0,1,0
+Joona,Toivio,FIN,Defender,Häcken,33,4,2,175,0,0,0,0
+Leo,Väisänen,FIN,Defender,Elfsborg,23,5,1,1,0,0,0,0
+Nicholas,Hämäläinen,FIN,Defender,QPR,24,15,0,0,0,0,0,0
+Thomas,Lam,FIN,Defender,Zwolle,27,16,0,0,0,0,0,0
+Jere,Uronen,FIN,Defender,Genk,26,18,2,180,0,0,0,0
+Jukka,Raitala,FIN,Defender,Minnesota,32,22,2,164,0,0,0,0
+Robert,Ivanov,FIN,Defender,Warta Poznan,26,25,0,0,0,0,0,0
+Glen,Kamara,FIN,Midfielder,Rangers,25,6,2,180,0,0,1,0
+Robert,Taylor,FIN,Midfielder,Brann,26,7,0,0,0,0,0,0
+Robin,Lod,FIN,Midfielder,Minnesota,28,8,2,180,0,0,1,0
+Fredrik,Jensen,FIN,Midfielder,Augsburg,23,9,1,5,0,0,0,0
+Rasmus,Schüller,FIN,Midfielder,Djurgården,29,11,2,81,0,0,0,0
+Pyry,Soiri,FIN,Midfielder,Esbjerg,26,13,1,15,0,0,0,0
+Tim,Sparv,FIN,Midfielder,Larissa,34,14,1,76,0,0,1,0
+Nikolai,Alho,FIN,Midfielder,MTK,28,17,0,0,0,0,0,0
+Joni,Kauko,FIN,Midfielder,Esbjerg,30,19,2,37,0,0,0,0
+Onni,Valakari,FIN,Midfielder,Pafos,21,24,0,0,0,0,0,0
+Teemu,Pukki,FIN,Forward,Norwich,31,10,2,151,0,0,0,0
+Joel,Pohjanpalo,FIN,Forward,Leverkusen,26,20,2,174,1,0,0,0
+Lassi,Lappalainen,FIN,Forward,Montreal,22,21,1,15,0,0,0,0
+Marcus,Forss,FIN,Forward,Brentford,21,26,1,6,0,0,0,0
+Hugo,Lloris,FRA,Goalkeeper,Tottenham,34,1,1,90,0,1,0,0
+Steve,Mandanda,FRA,Goalkeeper,Marseille,36,16,0,0,0,0,0,0
+Mike,Maignan,FRA,Goalkeeper,Paris,25,23,0,0,0,0,0,0
+Benjamin,Pavard,FRA,Defender,Bayern,25,2,1,90,0,0,0,0
+Presnel,Kimpembe,FRA,Defender,Paris,25,3,1,90,0,0,0,0
+Raphaël,Varane,FRA,Defender,Real Madrid,28,4,1,90,0,0,0,0
+Clément,Lenglet,FRA,Defender,Barcelona,25,5,0,0,0,0,0,0
+Kurt,Zouma,FRA,Defender,Chelsea,26,15,0,0,0,0,0,0
+Lucas,Digne,FRA,Defender,Everton,27,18,0,0,0,0,0,0
+Lucas,Hernández,FRA,Defender,Bayern,25,21,1,90,0,0,0,0
+Léo,Dubois,FRA,Defender,Lyon,26,24,0,0,0,0,0,0
+Jules,Koundé,FRA,Defender,Sevilla,22,25,0,0,0,0,0,0
+Paul,Pogba,FRA,Midfielder,Man. United,28,6,1,90,0,0,0,0
+Thomas,Lemar,FRA,Midfielder,Atlético,25,8,0,0,0,0,0,0
+Corentin,Tolisso,FRA,Midfielder,Bayern,26,12,1,1,0,0,0,0
+N'Golo,Kanté,FRA,Midfielder,Chelsea,30,13,1,90,0,0,0,0
+Adrien,Rabiot,FRA,Midfielder,Juventus,26,14,1,89,0,0,0,0
+Moussa,Sissoko,FRA,Midfielder,Tottenham,31,17,0,0,0,0,0,0
+Kingsley,Coman,FRA,Midfielder,Bayern,25,20,0,0,0,0,0,0
+Antoine,Griezmann,FRA,Forward,Barcelona,30,7,1,90,0,0,0,0
+Olivier,Giroud,FRA,Forward,Chelsea,34,9,0,0,0,0,0,0
+Kylian,Mbappé,FRA,Forward,Paris,22,10,1,90,0,0,0,0
+Ousmane,Dembélé,FRA,Forward,Barcelona,24,11,1,1,0,0,0,0
+Karim,Benzema,FRA,Forward,Real Madrid,33,19,1,89,0,0,0,0
+Wissam,Ben Yedder,FRA,Forward,Monaco,30,22,0,0,0,0,0,0
+Marcus,Thuram,FRA,Forward,Mönchengladbach,23,26,0,0,0,0,0,0
+Manuel,Neuer,GER,Goalkeeper,Bayern,35,1,1,90,0,1,0,0
+Bernd,Leno,GER,Goalkeeper,Arsenal,29,12,0,0,0,0,0,0
+Kevin,Trapp,GER,Goalkeeper,Frankfurt,30,22,0,0,0,0,0,0
+Antonio,Rüdiger,GER,Defender,Chelsea,28,2,1,90,0,0,0,0
+Marcel,Halstenberg,GER,Defender,Leipzig,29,3,0,0,0,0,0,0
+Matthias,Ginter,GER,Defender,Mönchengladbach,27,4,1,88,0,0,0,0
+Mats,Hummels,GER,Defender,Dortmund,32,5,1,90,0,0,0,0
+Niklas,Süle,GER,Defender,Bayern,25,15,0,0,0,0,0,0
+Lukas,Klostermann,GER,Defender,Leipzig,25,16,0,0,0,0,0,0
+Robin,Gosens,GER,Defender,Atalanta,26,20,1,88,0,0,0,0
+Can,Emre,GER,Defender,Dortmund,27,23,1,2,0,0,0,0
+Robin,Koch,GER,Defender,Leeds,24,24,0,0,0,0,0,0
+Christian,Günter,GER,Defender,Freiburg,28,26,0,0,0,0,0,0
+Joshua,Kimmich,GER,Midfielder,Bayern,26,6,1,90,0,0,1,0
+Toni,Kroos,GER,Midfielder,Real Madrid,31,8,1,90,0,0,0,0
+Serge,Gnabry,GER,Midfielder,Bayern,25,10,1,74,0,0,0,0
+Jonas,Hofmann,GER,Midfielder,Mönchengladbach,28,13,0,0,0,0,0,0
+Jamal,Musiala,GER,Midfielder,Bayern,18,14,0,0,0,0,0,0
+Florian,Neuhaus,GER,Midfielder,Mönchengladbach,24,17,0,0,0,0,0,0
+Leon,Goretzka,GER,Midfielder,Bayern,26,18,0,0,0,0,0,0
+Leroy,Sané,GER,Midfielder,Bayern,25,19,1,16,0,0,0,0
+İlkay,Gündoğan,GER,Midfielder,Man. City,30,21,1,90,0,0,0,0
+Kai,Havertz,GER,Forward,Chelsea,22,7,1,74,0,0,0,0
+Kevin,Volland,GER,Forward,Monaco,28,9,1,2,0,0,0,0
+Timo,Werner,GER,Forward,Chelsea,25,11,1,16,0,0,0,0
+Thomas,Müller,GER,Forward,Bayern,31,25,1,90,0,0,0,0
+Péter,Gulácsi,HUN,Goalkeeper,Leipzig,31,1,1,90,0,4,0,0
+Dénes,Dibusz,HUN,Goalkeeper,Ferencváros,30,12,0,0,0,0,0,0
+Ádám,Bogdán,HUN,Goalkeeper,Ferencváros,33,22,0,0,0,0,0,0
+Ádám,Lang,HUN,Defender,Omonoia,28,2,0,0,0,0,0,0
+Ákos,Kecskés,HUN,Defender,Lugano,25,3,0,0,0,0,0,0
+Attila,Szalai,HUN,Defender,Fenerbahçe,23,4,1,90,0,0,0,0
+Attila,Fiola,HUN,Defender,Fehérvár,31,5,1,88,0,0,0,0
+Willi,Orbán,HUN,Defender,Leipzig,28,6,1,90,0,0,1,0
+Loïc,Négo,HUN,Defender,Fehérvár,30,7,1,25,0,0,1,0
+Gergő,Lovrencsics,HUN,Defender,Ferencváros,32,14,1,90,0,0,0,0
+Endre,Botka,HUN,Defender,Ferencváros,26,21,1,90,0,0,0,0
+Bendegúz,Bolla,HUN,Defender,Fehérvár,21,26,0,0,0,0,0,0
+Ádám,Nagy,HUN,Midfielder,Bristol City,25,8,1,88,0,0,0,0
+Tamás,Cseri,HUN,Midfielder,Mezőkövesd,33,10,0,0,0,0,0,0
+András,Schäfer,HUN,Midfielder,Dunajská Streda,22,13,1,65,0,0,0,0
+László,Kleinheisler,HUN,Midfielder,Osijek,27,15,1,78,0,0,0,0
+Dániel,Gazdag,HUN,Midfielder,Philadelphia Union,25,16,0,0,0,0,0,0
+Roland,Varga,HUN,Midfielder,MTK,31,17,1,2,0,0,0,0
+Dávid,Sigér,HUN,Midfielder,Ferencváros,30,18,1,12,0,0,0,0
+Kevin,Varga,HUN,Midfielder,Kasımpaşa,25,19,1,2,0,0,0,0
+Ádám,Szalai,HUN,Forward,Mainz,33,9,1,90,0,0,0,0
+Filip,Holender,HUN,Forward,Lugano,26,11,0,0,0,0,0,0
+Roland,Sallai,HUN,Forward,Freiburg,24,20,1,77,0,0,0,0
+Nemanja,Nikolić,HUN,Forward,Fehérvár,33,23,0,0,0,0,0,0
+Szabolcs,Schön,HUN,Forward,FC Dallas,20,24,1,13,0,0,0,0
+János,Hahn,HUN,Forward,Paks,26,25,0,0,0,0,0,0
+Salvatore,Sirigu,ITA,Goalkeeper,Torino,34,1,0,0,0,0,0,0
+Gianluigi,Donnarumma,ITA,Goalkeeper,Milan,22,21,2,180,0,1,0,0
+Alex,Meret,ITA,Goalkeeper,Napoli,24,26,0,0,0,0,0,0
+Giovanni,Di Lorenzo,ITA,Defender,Napoli,27,2,2,135,0,0,0,0
+Giorgio,Chiellini,ITA,Defender,Juventus,36,3,2,114,0,0,0,0
+Leonardo,Spinazzola,ITA,Defender,Roma,28,4,2,180,0,0,0,0
+Emerson,Emerson,ITA,Defender,Chelsea,26,13,0,0,0,0,0,0
+Francesco,Acerbi,ITA,Defender,Lazio,33,15,1,66,0,0,0,0
+Leonardo,Bonucci,ITA,Defender,Juventus,34,19,2,180,0,0,0,0
+Alessandro,Bastoni,ITA,Defender,Internazionale,22,23,0,0,0,0,0,0
+Alessandro,Florenzi,ITA,Defender,Roma,30,24,1,45,0,0,0,0
+Rafael,Tolói,ITA,Defender,Atalanta,30,25,1,20,0,0,0,0
+Manuel,Locatelli,ITA,Midfielder,Sassuolo,23,5,2,160,2,0,0,0
+Marco,Verratti,ITA,Midfielder,Paris,28,6,0,0,0,0,0,0
+Gaetano,Castrovilli,ITA,Midfielder,Fiorentina,24,7,0,0,0,0,0,0
+Jorginho,Jorginho,ITA,Midfielder,Chelsea,29,8,2,180,0,0,0,0
+Matteo,Pessina,ITA,Midfielder,Atalanta,24,12,1,4,0,0,0,0
+Federico,Chiesa,ITA,Midfielder,Juventus,23,14,2,30,0,0,0,0
+Bryan,Cristante,ITA,Midfielder,Roma,26,16,2,20,0,0,0,0
+Nicolò,Barella,ITA,Midfielder,Internazionale,24,18,2,176,0,0,0,0
+Federico,Bernardeschi,ITA,Midfielder,Juventus,27,20,1,5,0,0,0,0
+Andrea,Belotti,ITA,Forward,Torino,27,9,1,9,0,0,0,0
+Lorenzo,Insigne,ITA,Forward,Napoli,30,10,2,150,1,0,0,0
+Domenico,Berardi,ITA,Forward,Sassuolo,26,11,2,155,0,0,0,0
+Ciro,Immobile,ITA,Forward,Lazio,31,17,2,171,2,0,0,0
+Giacomo,Raspadori,ITA,Forward,Sassuolo,21,22,0,0,0,0,0,0
+Maarten,Stekelenburg,NED,Goalkeeper,Ajax,38,1,1,90,0,3,0,0
+Tim,Krul,NED,Goalkeeper,Norwich,33,13,0,0,0,0,0,0
+Marco,Bizot,NED,Goalkeeper,AZ Alkmaar,30,23,0,0,0,0,0,0
+Joël,Veltman,NED,Defender,Brighton,29,2,1,2,0,0,0,0
+Matthijs,de Ligt,NED,Defender,Juventus,21,3,0,0,0,0,0,0
+Nathan,Aké,NED,Defender,Man. City,26,4,1,26,0,0,0,0
+Owen,Wijndal,NED,Defender,AZ Alkmaar,21,5,1,26,0,0,0,0
+Stefan,de Vrij,NED,Defender,Internazionale,29,6,1,90,0,0,0,0
+Patrick,van Aanholt,NED,Defender,Crystal Palace,30,12,1,64,0,0,0,0
+Daley,Blind,NED,Defender,Ajax,31,17,1,64,0,0,0,0
+Denzel,Dumfries,NED,Defender,PSV,25,22,1,90,1,0,0,0
+Georginio,Wijnaldum,NED,Midfielder,Liverpool,30,8,1,90,1,0,0,0
+Quincy,Promes,NED,Midfielder,Spartak Moskva,29,11,0,0,0,0,0,0
+Davy,Klaassen,NED,Midfielder,Ajax,28,14,0,0,0,0,0,0
+Marten,de Roon,NED,Midfielder,Atalanta,30,15,1,90,0,0,0,0
+Ryan,Gravenberch,NED,Midfielder,Ajax,19,16,0,0,0,0,0,0
+Donny,van de Beek,NED,Midfielder,Man. United,24,20,0,0,0,0,0,0
+Frenkie,de Jong,NED,Midfielder,Barcelona,24,21,1,90,0,0,0,0
+Teun,Koopmeiners,NED,Midfielder,AZ Alkmaar,23,24,0,0,0,0,0,0
+Jurriën,Timber,NED,Midfielder,Ajax,19,25,1,88,0,0,0,0
+Steven,Berghuis,NED,Forward,Feyenoord,29,7,0,0,0,0,0,0
+Luuk,de Jong,NED,Forward,Sevilla,30,9,1,2,0,0,0,0
+Memphis,Depay,NED,Forward,Lyon,27,10,1,89,0,0,0,0
+Donyell,Malen,NED,Forward,PSV,22,18,1,1,0,0,0,0
+Wout,Weghorst,NED,Forward,Wolfsburg,28,19,1,88,1,0,0,0
+Cody,Gakpo,NED,Forward,PSV,22,26,0,0,0,0,0,0
+Stole,Dimitrievski,MKD,Goalkeeper,Rayo Vallecano,27,1,1,90,0,4,0,0
+Risto,Jankov,MKD,Goalkeeper,Rabotnicki,22,12,0,0,0,0,0,0
+Damjan,Siskovski,MKD,Goalkeeper,Doxa,26,22,0,0,0,0,0,0
+Egzon,Bejtulai,MKD,Defender,Shkëndija,27,2,1,27,0,0,0,0
+Gjoko,Zajkov,MKD,Defender,Charleroi,26,3,0,0,0,0,0,0
+Kire,Ristevski,MKD,Defender,Újpest,30,4,0,0,0,0,0,0
+Visar,Musliu,MKD,Defender,Fehérvár,26,6,1,86,0,0,0,0
+Stefan,Ristovski,MKD,Defender,Dinamo Zagreb,29,13,1,90,0,0,0,0
+Darko,Velkoski,MKD,Defender,Rijeka,25,14,1,90,0,0,0,0
+Arijan,Ademi,MKD,Midfielder,Dinamo Zagreb,30,5,1,90,0,0,0,0
+Ezgjan,Alioski,MKD,Midfielder,Leeds,29,8,1,90,0,0,1,0
+Ferhan,Hasani,MKD,Midfielder,Partizani,30,11,0,0,0,0,0,0
+Tihomir,Kostadinov,MKD,Midfielder,Ružomberok,25,15,1,27,0,0,0,0
+Boban,Nikolov,MKD,Midfielder,Lecce,26,16,1,63,0,0,0,0
+Enis,Bardi,MKD,Midfielder,Levante,25,17,1,82,0,0,0,0
+Stefan,Spirovski,MKD,Midfielder,AEK Larnaca,30,20,0,0,0,0,0,0
+Eljif,Elmas,MKD,Midfielder,Napoli,21,21,1,90,0,0,0,0
+Darko,Churlinov,MKD,Midfielder,Stuttgart,20,25,0,0,0,0,0,0
+Milan,Ristovski,MKD,Midfielder,Spartak Trnava,23,26,1,4,0,0,0,0
+Ivan,Tričkovski,MKD,Forward,AEK Larnaca,34,7,1,8,0,0,0,0
+Aleksandar,Trajkovski,MKD,Forward,Mallorca,28,9,1,63,0,0,1,0
+Goran,Pandev,MKD,Forward,Genoa,37,10,1,90,1,0,0,0
+Vlatko,Stojanovski,MKD,Forward,Chambly,24,18,0,0,0,0,0,0
+Krste,Velkovski,MKD,Forward,Sarajevo,33,19,0,0,0,0,0,0
+Marjan,Radeski,MKD,Forward,Akademija Pandev,26,23,0,0,0,0,0,0
+Daniel,Avramovski,MKD,Forward,Kayserispor,26,24,0,0,0,0,0,0
+Wojciech,Szczęsny,POL,Goalkeeper,Juventus,31,1,1,90,0,1,0,0
+Łukasz,Skorupski,POL,Goalkeeper,Bologna,30,12,0,0,0,0,0,0
+Łukasz,Fabiański,POL,Goalkeeper,West Ham,36,22,0,0,0,0,0,0
+Kamil,Piątkowski,POL,Defender,Raków,20,2,0,0,0,0,0,0
+Tomasz,Kędziora,POL,Defender,Dynamo Kyiv,27,4,0,0,0,0,0,0
+Jan,Bednarek,POL,Defender,Southampton,25,5,1,90,0,0,0,0
+Maciej,Rybus,POL,Defender,Lokomotiv Moskva,31,13,1,74,0,0,0,0
+Kamil,Glik,POL,Defender,Benevento,33,15,1,90,0,0,0,0
+Bartosz,Bereszyński,POL,Defender,Sampdoria,28,18,1,90,0,0,0,0
+Michał,Helik,POL,Defender,Barnsley,25,25,0,0,0,0,0,0
+Tymoteusz,Puchacz,POL,Defender,Lech,22,26,1,16,0,0,0,0
+Paweł,Dawidowicz,POL,Midfielder,Verona,26,3,0,0,0,0,0,0
+Kacper,Kozłowski,POL,Midfielder,Pogoń,17,6,0,0,0,0,0,0
+Karol,Linetty,POL,Midfielder,Torino,26,8,1,74,1,0,0,0
+Grzegorz,Krychowiak,POL,Midfielder,Lokomotiv Moskva,31,10,1,62,0,0,2,1
+Mateusz,Klich,POL,Midfielder,Leeds,31,14,1,85,0,0,0,0
+Jakub,Moder,POL,Midfielder,Brighton,22,16,1,5,0,0,0,0
+Przemysław,Płacheta,POL,Midfielder,Norwich,23,17,0,0,0,0,0,0
+Przemysław,Frankowski,POL,Midfielder,Chicago Fire,26,19,1,16,0,0,0,0
+Piotr,Zieliński,POL,Midfielder,Napoli,27,20,1,85,0,0,0,0
+Kamil,Jóźwiak,POL,Midfielder,Derby,23,21,1,90,0,0,0,0
+Robert,Lewandowski,POL,Forward,Bayern,32,9,1,90,0,0,0,0
+Karol,Świderski,POL,Forward,PAOK,24,11,1,5,0,0,0,0
+Dawid,Kownacki,POL,Forward,Düsseldorf,24,23,0,0,0,0,0,0
+Jakub,Świerczok,POL,Forward,Ludogorets,28,24,0,0,0,0,0,0
+Patrício,Rui,POR,Goalkeeper,Wolves,33,1,1,90,0,3,0,0
+Anthony,Lopes,POR,Goalkeeper,Lyon,30,12,0,0,0,0,0,0
+Silva,Rui,POR,Goalkeeper,Granada,27,22,0,0,0,0,0,0
+Semedo,Nélson,POR,Defender,Wolves,27,2,1,90,0,0,0,0
+Pepe,Pepe,POR,Defender,Porto,38,3,1,90,0,0,0,0
+Dias,Rúben,POR,Defender,Man. City,24,4,1,90,0,0,1,0
+Raphaël,Guerreiro,POR,Defender,Dortmund,27,5,1,90,1,0,0,0
+José,Fonte,POR,Defender,LOSC,37,6,0,0,0,0,0,0
+Diogo,Dalot,POR,Defender,Man. United,22,20,0,0,0,0,0,0
+Mendes,Nuno,POR,Defender,Sporting CP,18,25,0,0,0,0,0,0
+Moutinho,João,POR,Midfielder,Wolves,34,8,1,1,0,0,0,0
+Silva,Bernardo,POR,Midfielder,Man. City,26,10,1,71,0,0,0,0
+Fernandes,Bruno,POR,Midfielder,Man. United,26,11,1,89,0,0,0,0
+Danilo,Danilo,POR,Midfielder,Paris,29,13,1,90,0,0,0,0
+Carvalho,William,POR,Midfielder,Betis,29,14,1,81,0,0,0,0
+Sanches,Renato,POR,Midfielder,LOSC,23,16,1,9,0,0,0,0
+Guedes,Gonçalo,POR,Midfielder,Valencia,24,17,0,0,0,0,0,0
+Neves,Rúben,POR,Midfielder,Wolves,24,18,0,0,0,0,0,0
+Gonçalves,Pedro,POR,Midfielder,Sporting CP,22,19,0,0,0,0,0,0
+Oliveira,Sérgio,POR,Midfielder,Porto,29,24,0,0,0,0,0,0
+Palhinha,João,POR,Midfielder,Sporting CP,25,26,0,0,0,0,0,0
+Cristiano,Ronaldo,POR,Forward,Juventus,36,7,1,90,2,0,0,0
+Silva,André,POR,Forward,Frankfurt,25,9,1,9,0,0,0,0
+Silva,Rafa,POR,Forward,Benfica,28,15,1,19,0,0,0,0
+Jota,Diogo,POR,Forward,Liverpool,24,21,1,81,0,0,0,0
+Félix,João,POR,Forward,Atlético,21,23,0,0,0,0,0,0
+Anton,Shunin,RUS,Goalkeeper,Dynamo Moscow,34,1,1,90,0,1,0,0
+Yuri,Dyupin,RUS,Goalkeeper,Rubin,33,12,0,0,0,0,0,0
+Matvei,Safonov,RUS,Goalkeeper,Krasnodar,22,16,1,90,0,1,0,0
+Fernandes,Mário,RUS,Defender,CSKA Moskva,30,2,2,116,0,0,0,0
+Igor,Diveev,RUS,Defender,CSKA Moskva,21,3,2,135,0,0,0,0
+Vyacheslav,Karavaev,RUS,Defender,Zenit,26,4,2,111,0,0,0,0
+Andrei,Semenov,RUS,Defender,Akhmat,32,5,1,90,0,0,0,0
+Fedor,Kudryashov,RUS,Defender,Antalyaspor,34,13,0,0,0,0,0,0
+Georgi,Dzhikiya,RUS,Defender,Spartak Moskva,27,14,2,180,0,0,1,0
+Roman,Evgenyev,RUS,Defender,Dynamo Moscow,22,24,0,0,0,0,0,0
+Denis,Cheryshev,RUS,Midfielder,Valencia,30,6,1,34,0,0,0,0
+Magomed,Ozdoev,RUS,Midfielder,Zenit,28,7,2,151,0,0,1,0
+Dmitri,Barinov,RUS,Midfielder,Lokomotiv Moskva,24,8,2,135,0,0,1,0
+Roman,Zobnin,RUS,Midfielder,Spartak Moskva,27,11,2,153,0,0,0,0
+Aleksei,Miranchuk,RUS,Midfielder,Atalanta,25,15,2,112,1,0,0,0
+Aleksandr,Golovin,RUS,Midfielder,Monaco,25,17,2,180,0,0,0,0
+Yuri,Zhirkov,RUS,Midfielder,Zenit,37,18,1,43,0,0,0,0
+Rifat,Zhemaletdinov,RUS,Midfielder,Lokomotiv Moskva,24,19,1,29,0,0,0,0
+Aleksei,Ionov,RUS,Midfielder,Krasnodar,32,20,0,0,0,0,0,0
+Daniil,Fomin,RUS,Midfielder,Dynamo Moscow,24,21,0,0,0,0,0,0
+Daler,Kuzyaev,RUS,Midfielder,Zenit,28,23,2,119,0,0,0,0
+Denis,Makarov,RUS,Midfielder,Rubin,23,25,0,0,0,0,0,0
+Maksim,Mukhin,RUS,Midfielder,Lokomotiv Moskva,19,26,2,32,0,0,0,0
+Aleksandr,Sobolev,RUS,Forward,Spartak Moskva,24,9,1,6,0,0,0,0
+Anton,Zabolotny,RUS,Forward,Sochi,30,10,0,0,0,0,0,0
+Artem,Dzyuba,RUS,Forward,Zenit,32,22,2,175,0,0,0,0
+David,Marshall,SCO,Goalkeeper,Derby,36,1,1,90,0,5,0,0
+Craig,Gordon,SCO,Goalkeeper,Hearts,38,12,0,0,0,0,0,0
+Jon,McLaughlin,SCO,Goalkeeper,Rangers,33,21,0,0,0,0,0,0
+Stephen,O'Donnell,SCO,Defender,Motherwell,29,2,1,79,0,0,0,0
+Andrew,Robertson,SCO,Defender,Liverpool,27,3,1,90,0,0,0,0
+Grant,Hanley,SCO,Defender,Norwich,29,5,1,90,0,0,0,0
+Kieran,Tierney,SCO,Defender,Arsenal,24,6,0,0,0,0,0,0
+Greg,Taylor,SCO,Defender,Celtic,23,13,0,0,0,0,0,0
+Declan,Gallagher,SCO,Defender,Motherwell,30,15,0,0,0,0,0,0
+Liam,Cooper,SCO,Defender,Leeds,29,16,1,90,0,0,0,0
+Nathan,Patterson,SCO,Defender,Rangers,19,22,0,0,0,0,0,0
+Jack,Hendry,SCO,Defender,Celtic,26,24,1,67,0,0,0,0
+Scott,McKenna,SCO,Defender,Nottm Forest,24,26,0,0,0,0,0,0
+Scott,McTominay,SCO,Midfielder,Man. United,24,4,1,90,0,0,0,0
+John,McGinn,SCO,Midfielder,Aston Villa,26,7,1,90,0,0,0,0
+Callum,McGregor,SCO,Midfielder,Celtic,28,8,1,23,0,0,0,0
+Ryan,Christie,SCO,Midfielder,Celtic,26,11,1,45,0,0,0,0
+John,Fleck,SCO,Midfielder,Sheff. United,29,14,0,0,0,0,0,0
+Stuart,Armstrong,SCO,Midfielder,Southampton,29,17,1,67,0,0,0,0
+David,Turnbull,SCO,Midfielder,Celtic,21,18,0,0,0,0,0,0
+Ryan,Fraser,SCO,Midfielder,Newcastle,27,20,1,23,0,0,0,0
+Billy,Gilmour,SCO,Midfielder,Chelsea,20,23,0,0,0,0,0,0
+James,Forrest,SCO,Midfielder,Celtic,29,25,1,11,0,0,0,0
+Lyndon,Dykes,SCO,Forward,QPR,25,9,1,79,0,0,0,0
+Ché,Adams,SCO,Forward,Southampton,24,10,1,45,0,0,0,0
+Kevin,Nisbet,SCO,Forward,Hibernian,24,19,1,11,0,0,0,0
+Martin,Dúbravka,SVK,Goalkeeper,Newcastle,32,1,1,90,0,2,0,0
+Dušan,Kuciak,SVK,Goalkeeper,Lechia,36,12,0,0,0,0,0,0
+Marek,Rodák,SVK,Goalkeeper,Fulham,24,23,0,0,0,0,0,0
+Peter,Pekarík,SVK,Defender,Hertha,34,2,1,79,0,0,0,0
+Denis,Vavro,SVK,Defender,Lazio,25,3,0,0,0,0,0,0
+Martin,Valjent,SVK,Defender,Mallorca,25,4,0,0,0,0,0,0
+Ľubomír,Šatka,SVK,Defender,Lech,25,5,1,90,0,0,0,0
+Milan,Škriniar,SVK,Defender,Internazionale,26,14,1,90,1,0,0,0
+Tomáš,Hubočan,SVK,Defender,Omonoia,35,15,1,90,0,0,1,0
+Dávid,Hancko,SVK,Defender,Sparta Praha,23,16,0,0,0,0,0,0
+Martin,Koscelník,SVK,Defender,Liberec,26,24,1,11,0,0,0,0
+Ján,Greguš,SVK,Midfielder,Minnesota,30,6,1,1,0,0,0,0
+Vladimír,Weiss,SVK,Midfielder,Slovan Bratislava,31,7,0,0,0,0,0,0
+Ondrej,Duda,SVK,Midfielder,Köln,26,8,1,89,0,0,0,0
+Tomáš,Suslov,SVK,Midfielder,Groningen,19,10,1,3,0,0,0,0
+László,Bénes,SVK,Midfielder,Mönchengladbach,23,11,0,0,0,0,0,0
+Patrik,Hrošovský,SVK,Midfielder,Genk,29,13,1,11,0,0,0,0
+Marek,Hamšík,SVK,Midfielder,Göteborg,33,17,1,90,0,0,0,0
+Lukáš,Haraslín,SVK,Midfielder,Sassuolo,25,18,1,87,0,0,0,0
+Juraj,Kucka,SVK,Midfielder,Parma,34,19,1,90,0,0,0,0
+Stanislav,Lobotka,SVK,Midfielder,Napoli,26,22,0,0,0,0,0,0
+Jakub,Hromada,SVK,Midfielder,Slavia Praha,25,25,1,79,0,0,0,0
+Róbert,Boženík,SVK,Forward,Feyenoord,21,9,0,0,0,0,0,0
+Róbert,Mak,SVK,Forward,Ferencváros,30,20,1,87,0,0,0,0
+Michal,Ďuriš,SVK,Forward,Omonoia,33,21,1,3,0,0,0,0
+Ivan,Schranz,SVK,Forward,Jablonec,27,26,0,0,0,0,0,0
+David,de Gea,ESP,Goalkeeper,Man. United,30,1,0,0,0,0,0,0
+Robert,Sánchez,ESP,Goalkeeper,Brighton,23,13,0,0,0,0,0,0
+Simón,Unai,ESP,Goalkeeper,Athletic Club,24,23,1,90,0,0,0,0
+César,Azpilicueta,ESP,Defender,Chelsea,31,2,0,0,0,0,0,0
+Llorente,Diego,ESP,Defender,Leeds,27,3,0,0,0,0,0,0
+Torres,Pau,ESP,Defender,Villarreal,24,4,1,90,0,0,0,0
+García,Eric,ESP,Defender,Man. City,20,12,0,0,0,0,0,0
+José,Gayà,ESP,Defender,Valencia,26,14,0,0,0,0,0,0
+Alba,Jordi,ESP,Defender,Barcelona,32,18,1,90,0,0,0,0
+Aymeric,Laporte,ESP,Defender,Man. City,27,24,1,90,0,0,0,0
+Busquets,Sergio,ESP,Midfielder,Barcelona,32,5,0,0,0,0,0,0
+Llorente,Marcos,ESP,Midfielder,Atlético,26,6,1,90,0,0,0,0
+Koke,Koke,ESP,Midfielder,Atlético,29,8,1,87,0,0,0,0
+Alcántara,Thiago,ESP,Midfielder,Liverpool,30,10,1,24,0,0,0,0
+Torres,Ferran,ESP,Midfielder,Man. City,21,11,1,74,0,0,0,0
+Rodri,Rodri,ESP,Midfielder,Man. City,24,16,1,66,0,0,0,0
+Ruiz,Fabián,ESP,Midfielder,Napoli,25,17,1,3,0,0,0,0
+Dani,Olmo,ESP,Midfielder,Leipzig,23,19,1,74,0,0,0,0
+Adama,Traoré,ESP,Midfielder,Wolves,25,20,0,0,0,0,0,0
+Pablo,Sarabia,ESP,Midfielder,Paris,29,22,1,24,0,0,0,0
+Álvaro,Morata,ESP,Forward,Atlético,28,7,1,66,0,0,0,0
+Moreno,Gerard,ESP,Forward,Villarreal,29,9,1,16,0,0,0,0
+Mikel,Oyarzabal,ESP,Forward,Real Sociedad,24,21,1,16,0,0,0,0
+Pedri,Pedri,ESP,Forward,Barcelona,18,26,1,90,0,0,0,0
+Robin,Olsen,SWE,Goalkeeper,Roma,31,1,1,90,0,5,0,0
+Karl-Johan,Johnsson,SWE,Goalkeeper,Copenhagen,31,12,0,0,0,0,0,0
+Kristoffer,Nordfeldt,SWE,Goalkeeper,Gençlerbirliği,31,23,0,0,0,0,0,0
+Mikael,Lustig,SWE,Defender,AIK,34,2,1,75,0,0,1,0
+Victor,Lindelöf,SWE,Defender,Man. United,26,3,1,90,0,0,0,0
+Andreas,Granqvist,SWE,Defender,Helsingborg,36,4,0,0,0,0,0,0
+Pierre,Bengtsson,SWE,Defender,Copenhagen,33,5,1,6,0,0,0,0
+Ludwig,Augustinsson,SWE,Defender,Bremen,27,6,1,90,0,0,0,0
+Filip,Helander,SWE,Defender,Rangers,28,14,0,0,0,0,0,0
+Emil,Krafth,SWE,Defender,Newcastle,26,16,1,15,0,0,0,0
+Pontus,Jansson,SWE,Defender,Brentford,30,18,0,0,0,0,0,0
+Marcus,Danielson,SWE,Defender,Dalian Pro,32,24,1,90,0,0,0,0
+Sebastian,Larsson,SWE,Midfielder,AIK,36,7,1,90,0,0,0,0
+Albin,Ekdal,SWE,Midfielder,Sampdoria,31,8,1,90,0,0,0,0
+Emil,Forsberg,SWE,Midfielder,Leipzig,29,10,1,84,0,0,0,0
+Gustav,Svensson,SWE,Midfielder,Guangzhou,34,13,0,0,0,0,0,0
+Ken,Sema,SWE,Midfielder,Watford,27,15,0,0,0,0,0,0
+Viktor,Claesson,SWE,Midfielder,Krasnodar,29,17,1,21,0,0,0,0
+Mattias,Svanberg,SWE,Midfielder,Bologna,22,19,0,0,0,0,0,0
+Kristoffer,Olsson,SWE,Midfielder,Krasnodar,25,20,1,84,0,0,0,0
+Dejan,Kulusevski,SWE,Midfielder,Juventus,21,21,0,0,0,0,0,0
+Robin,Quaison,SWE,Midfielder,Mainz,27,22,1,21,0,0,0,0
+Jens-Lys,Cajuste,SWE,Midfielder,Midtjylland,21,26,1,6,0,0,0,0
+Marcus,Berg,SWE,Forward,Krasnodar,34,9,1,69,0,0,0,0
+Alexander,Isak,SWE,Forward,Real Sociedad,21,11,1,69,0,0,0,0
+Jordan,Larsson,SWE,Forward,Spartak Moskva,23,25,0,0,0,0,0,0
+Yann,Sommer,SUI,Goalkeeper,Mönchengladbach,32,1,2,180,0,1,0,0
+Yvon,Mvogo,SUI,Goalkeeper,PSV,27,12,0,0,0,0,0,0
+Gregor,Kobel,SUI,Goalkeeper,Stuttgart,23,21,0,0,0,0,0,0
+Kevin,Mbabu,SUI,Defender,Wolfsburg,26,2,2,148,0,0,1,0
+Silvan,Widmer,SUI,Defender,Basel,28,3,1,32,0,0,0,0
+Nico,Elvedi,SUI,Defender,Mönchengladbach,24,4,2,180,0,0,0,0
+Manuel,Akanji,SUI,Defender,Dortmund,25,5,2,180,0,0,0,0
+Ricardo,Rodríguez,SUI,Defender,Torino,28,13,2,180,0,0,0,0
+Loris,Benito,SUI,Defender,Bordeaux,29,17,0,0,0,0,0,0
+Fabian,Schär,SUI,Defender,Newcastle,29,22,2,147,0,0,1,0
+Becir,Omeragic,SUI,Defender,Zürich,19,24,0,0,0,0,0,0
+Eray,Cömert,SUI,Defender,Basel,23,25,0,0,0,0,0,0
+Jordan,Lotomba,SUI,Defender,Nice,22,26,0,0,0,0,0,0
+Denis,Zakaria,SUI,Midfielder,Mönchengladbach,24,6,1,24,0,0,0,0
+Remo,Freuler,SUI,Midfielder,Atalanta,29,8,2,174,0,0,0,0
+Granit,Xhaka,SUI,Midfielder,Arsenal,28,10,2,180,0,0,0,0
+Ruben,Vargas,SUI,Midfielder,Augsburg,22,11,1,14,0,0,0,0
+Steven,Zuber,SUI,Midfielder,Frankfurt,29,14,1,33,0,0,0,0
+Djibril,Sow,SUI,Midfielder,Frankfurt,24,15,1,6,0,0,0,0
+Christian,Fassnacht,SUI,Midfielder,Young Boys,27,16,0,0,0,0,0,0
+Edimilson,Fernandes,SUI,Midfielder,Mainz,25,20,0,0,0,0,0,0
+Xherdan,Shaqiri,SUI,Midfielder,Liverpool,29,23,2,142,0,0,0,0
+Breel,Embolo,SUI,Forward,Mönchengladbach,24,7,2,180,1,0,1,0
+Haris,Seferović,SUI,Forward,Benfica,29,9,2,129,0,0,0,0
+Admir,Mehmedi,SUI,Forward,Wolfsburg,30,18,0,0,0,0,0,0
+Mario,Gavranović,SUI,Forward,Dinamo Zagreb,31,19,2,51,0,0,1,0
+Günok,Mert,TUR,Goalkeeper,İstanbul Başakşehir,32,1,0,0,0,0,0,0
+Bayındır,Altay,TUR,Goalkeeper,Fenerbahçe,23,12,0,0,0,0,0,0
+Çakır,Uğurcan,TUR,Goalkeeper,Trabzonspor,25,23,2,180,0,11,0,0
+Çelik,Zeki,TUR,Defender,LOSC,24,2,2,180,0,0,0,0
+Demiral,Merih,TUR,Defender,Juventus,23,3,2,135,0,0,0,0
+Söyüncü,Çağlar,TUR,Defender,Leicester,25,4,2,180,0,0,1,0
+Meraş,Umut,TUR,Defender,Le Havre,25,13,2,162,0,0,0,0
+Kabak,Ozan,TUR,Defender,Schalke,21,15,0,0,0,0,0,0
+Yılmaz,Rıdvan,TUR,Defender,Beşiktaş,20,18,0,0,0,0,0,0
+Ayhan,Kaan,TUR,Defender,Sassuolo,26,22,2,116,0,0,0,0
+Müldür,Mert,TUR,Defender,Sassuolo,22,25,1,18,0,0,0,0
+Yokuşlu,Okay,TUR,Midfielder,Celta,27,5,2,110,0,0,0,0
+Tufan,Ozan,TUR,Midfielder,Fenerbahçe,26,6,2,109,0,0,0,0
+Toköz,Dorukhan,TUR,Midfielder,Beşiktaş,25,8,0,0,0,0,0,0
+Çalhanoğlu,Hakan,TUR,Midfielder,Milan,27,10,2,180,0,0,1,0
+Antalyalı,Taylan,TUR,Midfielder,Galatasaray,26,14,0,0,0,0,0,0
+Kökçü,Orkun,TUR,Midfielder,Feyenoord,20,19,0,0,0,0,0,0
+Ömür,Abdülkadir,TUR,Midfielder,Trabzonspor,21,20,0,0,0,0,0,0
+İrfan Can Kahveci,İrfan Can Kahveci,TUR,Midfielder,Fenerbahçe,25,21,2,32,0,0,0,0
+Aktürkoğlu,Kerem,TUR,Midfielder,Galatasaray,22,24,0,0,0,0,0,0
+Dervişoğlu,Halil,TUR,Midfielder,Brentford,21,26,2,29,0,0,1,0
+Ünder,Cengiz,TUR,Forward,Roma,23,7,2,128,0,0,0,0
+Karaman,Kenan,TUR,Forward,Düsseldorf,27,9,2,151,0,0,0,0
+Yazıcı,Yusuf,TUR,Forward,LOSC,24,11,2,90,0,0,0,0
+Ünal,Enes,TUR,Forward,Getafe,24,16,0,0,0,0,0,0
+Yılmaz,Burak,TUR,Forward,LOSC,35,17,2,180,0,0,1,0
+Georgiy,Bushchan,UKR,Goalkeeper,Dynamo Kyiv,27,1,1,90,0,4,0,0
+Andriy,Pyatov,UKR,Goalkeeper,Shakhtar Donetsk,36,12,0,0,0,0,0,0
+Anatolii,Trubin,UKR,Goalkeeper,Shakhtar Donetsk,19,23,0,0,0,0,0,0
+Eduard,Sobol,UKR,Defender,Club Brugge,26,2,0,0,0,0,0,0
+Serhiy,Kryvtsov,UKR,Defender,Shakhtar Donetsk,30,4,0,0,0,0,0,0
+Illia,Zabarnyi,UKR,Defender,Dynamo Kyiv,18,13,1,90,0,0,0,0
+Vitaliy,Mykolenko,UKR,Defender,Dynamo Kyiv,22,16,1,90,0,0,0,0
+Oleksandr,Zinchenko,UKR,Defender,Man. City,24,17,1,90,0,0,0,0
+Oleksandr,Karavaev,UKR,Defender,Dynamo Kyiv,29,21,1,90,0,0,0,0
+Mykola,Matviyenko,UKR,Defender,Shakhtar Donetsk,25,22,1,90,0,0,0,0
+Oleksandr,Tymchyk,UKR,Defender,Dynamo Kyiv,24,24,0,0,0,0,0,0
+Denys,Popov,UKR,Defender,Dynamo Kyiv,22,25,0,0,0,0,0,0
+Georgiy,Sudakov,UKR,Midfielder,Shakhtar Donetsk,18,3,0,0,0,0,0,0
+Serhiy,Sydorchuk,UKR,Midfielder,Dynamo Kyiv,30,5,1,90,0,0,1,0
+Taras,Stepanenko,UKR,Midfielder,Shakhtar Donetsk,31,6,0,0,0,0,0,0
+Ruslan,Malinovskyi,UKR,Midfielder,Atalanta,28,8,1,90,0,0,0,0
+Mykola,Shaparenko,UKR,Midfielder,Dynamo Kyiv,22,10,1,26,0,0,0,0
+Marlos,Marlos,UKR,Midfielder,Shakhtar Donetsk,33,11,1,51,0,0,0,0
+Yevhen,Makarenko,UKR,Midfielder,Kortrijk,30,14,0,0,0,0,0,0
+Viktor,Tsygankov,UKR,Midfielder,Dynamo Kyiv,23,15,0,0,0,0,0,0
+Roman,Bezus,UKR,Midfielder,Gent,30,18,0,0,0,0,0,0
+Andriy,Yarmolenko,UKR,Forward,West Ham,31,7,1,90,1,0,0,0
+Roman,Yaremchuk,UKR,Forward,Gent,25,9,1,90,1,0,0,0
+Artem,Besedin,UKR,Forward,Dynamo Kyiv,25,19,0,0,0,0,0,0
+Oleksandr,Zubkov,UKR,Forward,Ferencváros,24,20,1,13,0,0,0,0
+Artem,Dovbyk,UKR,Forward,Dnipro-1,23,26,0,0,0,0,0,0
+Wayne,Hennessey,WAL,Goalkeeper,Crystal Palace,34,1,0,0,0,0,0,0
+Danny,Ward,WAL,Goalkeeper,Leicester,27,12,2,180,0,8,0,0
+Adam,Davies,WAL,Goalkeeper,Stoke,28,21,0,0,0,0,0,0
+Chris,Gunter,WAL,Defender,Charlton,31,2,0,0,0,0,0,0
+Neco,Williams,WAL,Defender,Liverpool,20,3,1,1,0,0,0,0
+Ben,Davies,WAL,Defender,Tottenham,28,4,2,180,0,0,1,0
+Tom,Lockyer,WAL,Defender,Luton,26,5,0,0,0,0,0,0
+Joe,Rodon,WAL,Defender,Tottenham,23,6,2,180,0,0,0,0
+Connor,Roberts,WAL,Defender,Swansea,25,14,2,180,1,0,0,0
+Ethan,Ampadu,WAL,Defender,Chelsea,20,15,2,18,0,0,0,0
+Rhys,Norrington-Davies,WAL,Defender,Sheff. United,22,17,0,0,0,0,0,0
+Chris,Mepham,WAL,Defender,Bournemouth,23,22,2,180,0,0,1,0
+Ben,Cabango,WAL,Defender,Swansea,21,24,0,0,0,0,0,0
+Joe,Allen,WAL,Midfielder,Stoke,31,7,2,163,0,0,0,0
+Harry,Wilson,WAL,Midfielder,Liverpool,24,8,1,5,0,0,0,0
+Aaron,Ramsey,WAL,Midfielder,Juventus,30,10,2,174,1,0,0,0
+Joe,Morrell,WAL,Midfielder,Luton,24,16,2,180,0,0,0,0
+Jonny,Williams,WAL,Midfielder,Cardiff,27,18,0,0,0,0,0,0
+David,Brooks,WAL,Midfielder,Bournemouth,23,19,1,15,0,0,0,0
+Daniel,James,WAL,Midfielder,Man. United,23,20,2,164,0,0,0,0
+Dylan,Levitt,WAL,Midfielder,Man. United,20,23,0,0,0,0,0,0
+Rubin,Colwill,WAL,Midfielder,Cardiff,19,25,0,0,0,0,0,0
+Matthew,Smith,WAL,Midfielder,Man. City,21,26,0,0,0,0,0,0
+Tyler,Roberts,WAL,Forward,Leeds,22,9,0,0,0,0,0,0
+Gareth,Bale,WAL,Forward,Real Madrid,31,11,2,180,0,0,0,0
+Kieffer,Moore,WAL,Forward,Cardiff,28,13,2,180,1,0,1,0

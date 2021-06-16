@@ -1,0 +1,622 @@
+Name,Country,Position,Age,Games Played,Goals
+Alexander Schlage,Austria,Goalkeeper,25,0,0
+Pavao Pervan,Austria,Goalkeeper,33,0,0
+Daniel Bachmann,Austria,Goalkeeper,26,1,1
+Andreas Ulme,Austria,Defender,35,1,0
+Aleksandar Dragovi,Austria,Defender,30,1,0
+Martin Hinteregge,Austria,Defender,28,1,0
+Stefan Posc,Austria,Defender,24,0,0
+David Alab,Austria,Defender,28,1,0
+Philipp Lienhart,Austria,Defender,24,1,0
+Stefan Lainer,Austria,Defender,28,1,1
+Marco Friedl,Austria,Defender,23,0,0
+Stefan Ilsanke,Austria,Midfielder,32,1,0
+Marcel Sabitze,Austria,Midfielder,27,1,0
+Florian Grillitsch,Austria,Midfielder,25,0,0
+Julian Baumgartlinger,Austria,Midfielder,33,1,0
+Christopher Trimmel,Austria,Midfielder,34,0,0
+Louis Schaub,Austria,Midfielder,26,0,0
+Alessandro Schöpf,Austria,Midfielder,27,0,0
+Christoph Baumgartner,Austria,Midfielder,21,1,0
+Karim Onisiwo,Austria,Midfielder,29,0,0
+Valentino Lazaro,Austria,Midfielder,25,0,0
+Xaver Schlager,Austria,Midfielder,23,1,0
+Konrad Laimer,Austria,Midfielder,24,1,0
+Marko Arnautovi,Austria,Forward,32,1,1
+Michael Gregoritsch,Austria,Forward,27,1,1
+Sasa Kalajdzic,Austria,Forward,23,1,0
+Thibaut Courtoi,Belgium,Goalkeeper,29,1,0
+Simon Mignolet,Belgium,Goalkeeper,33,0,0
+Matz Sels,Belgium,Goalkeeper,29,0,0
+Toby Alderweirel,Belgium,Defender,32,1,0
+Thomas Vermaele,Belgium,Defender,35,1,0
+Dedryck Boyat,Belgium,Defender,30,1,0
+Jan Vertonghe,Belgium,Defender,34,1,0
+Thomas Meunier,Belgium,Defender,29,1,1
+Jason Denayer,Belgium,Defender,25,0,0
+Timothy Castagne,Belgium,Defender,25,1,0
+Axel Witse,Belgium,Midfielder,32,0,0
+Kevin De Bruyn,Belgium,Midfielder,29,0,0
+Youri Tieleman,Belgium,Midfielder,24,1,0
+Eden Hazard,Belgium,Midfielder,30,1,0
+Yannick Carrasco,Belgium,Midfielder,27,1,0
+Thorgan Hazard,Belgium,Midfielder,28,1,0
+Hans Vanaken,Belgium,Midfielder,28,0,0
+Leander Dendoncker,Belgium,Midfielder,26,1,0
+Nacer Chadli,Belgium,Midfielder,31,0,0
+Dennis Praet,Belgium,Midfielder,27,1,0
+Romelu Lukak,Belgium,Forward,28,1,2
+Dries Mertens,Belgium,Forward,34,1,0
+Christian Benteke,Belgium,Forward,30,0,0
+Michy Batshuayi,Belgium,Forward,27,0,0
+Leandro Trossard,Belgium,Forward,26,0,0
+Jeremy Doku,Belgium,Forward,19,0,0
+Dominik Livakovi,Croatia,Goalkeeper,26,1,1
+Lovre Kalinić,Croatia,Goalkeeper,31,0,0
+Simon Sluga,Croatia,Goalkeeper,28,0,0
+Šime Vrsaljk,Croatia,Defender,29,1,0
+Borna Bariši,Croatia,Defender,28,0,0
+Duje Ćaleta-Ca,Croatia,Defender,24,1,0
+Dejan Lovre,Croatia,Defender,31,0,0
+Mile Škorić,Croatia,Defender,29,0,0
+Domagoj Vida,Croatia,Defender,32,1,0
+Josip Juranović,Croatia,Defender,25,0,0
+Domagoj Bradarić,Croatia,Defender,21,0,0
+Joško Gvardiol,Croatia,Defender,19,1,0
+Ivan Periši,Croatia,Midfielder,32,1,0
+Mateo Kovači,Croatia,Midfielder,27,1,0
+Luka Modrić,Croatia,Midfielder,35,1,0
+Marcelo Brozović,Croatia,Midfielder,28,1,0
+Nikola Vlašić,Croatia,Midfielder,23,1,0
+Mario Pašalić,Croatia,Midfielder,26,1,0
+Mislav Oršić,Croatia,Midfielder,28,0,0
+Milan Badelj,Croatia,Midfielder,32,0,0
+Luka Ivanušec,Croatia,Midfielder,22,0,0
+Josip Brekal,Croatia,Forward,22,1,0
+Andrej Kramari,Croatia,Forward,29,1,0
+Ante Budimir,Croatia,Forward,29,0,0
+Ante Rebić,Croatia,Forward,27,1,0
+Bruno Petković,Croatia,Forward,26,1,0
+Tomáš Vaclí,Czech Republic,Goalkeeper,32,1,0
+Aleš Mandous,Czech Republic,Goalkeeper,29,0,0
+Tomáš Koubek,Czech Republic,Goalkeeper,28,0,0
+Pavel Kadeřábe,Czech Republic,Defender,29,0,0
+Ondřej Čelůstk,Czech Republic,Defender,31,1,0
+Jakub Brabe,Czech Republic,Defender,28,0,0
+Vladimír Coufa,Czech Republic,Defender,28,1,0
+Tomáš Kala,Czech Republic,Defender,28,1,0
+Tomáš Hole,Czech Republic,Defender,28,1,0
+David Zima,Czech Republic,Defender,20,0,0
+Jan Bořil,Czech Republic,Defender,30,1,0
+Aleš Matějů,Czech Republic,Defender,25,0,0
+Antonín Bará,Czech Republic,Midfielder,26,0,0
+Vladimír Darid,Czech Republic,Midfielder,30,1,0
+Lukáš Masopust,Czech Republic,Midfielder,28,1,0
+Petr Ševčík,Czech Republic,Midfielder,27,1,0
+Jakub Jankto,Czech Republic,Midfielder,25,1,0
+Tomáš Souček,Czech Republic,Midfielder,26,1,0
+Alex Král,Czech Republic,Midfielder,23,1,0
+Jakub Pešek,Czech Republic,Midfielder,27,0,0
+Michal Sadílek,Czech Republic,Midfielder,22,0,0
+Patrik Schick,Czech Republic,Forward,25,1,2
+Michael Krmenčík,Czech Republic,Forward,28,1,0
+Adam Hložek,Czech Republic,Forward,18,1,0
+Matěj Vydra,Czech Republic,Forward,29,1,0
+Tomáš Pekhart,Czech Republic,Forward,32,0,0
+Kasper Schmeiche,Denmark,Goalkeeper,34,1,1
+Jonas Lössl,Denmark,Goalkeeper,32,0,0
+Frederik Rønnow,Denmark,Goalkeeper,28,0,0
+Joachim Anderse,Denmark,Defender,25,0,0
+Jannik Vestergaar,Denmark,Defender,28,1,0
+Simon Kjæ,Denmark,Defender,32,1,0
+Joakim Mæhl,Denmark,Defender,24,1,0
+Andreas  Christense,Denmark,Defender,25,1,0
+Mathias Jørgensen,Denmark,Defender,31,0,0
+Jens Stryger,Denmark,Defender,30,1,0
+Nicolai Boilesen,Denmark,Defender,29,0,0
+Robert Sko,Denmark,Midfielder,25,0,0
+Thomas Delane,Denmark,Midfielder,29,1,0
+Christian Eriksen,Denmark,Midfielder,29,1,0
+Christian Nørgaard,Denmark,Midfielder,27,0,0
+Daniel Wass,Denmark,Midfielder,32,1,0
+Pierre-Emile Højbjerg,Denmark,Midfielder,25,1,0
+Mathias Jensen,Denmark,Midfielder,25,1,0
+Anders Christiansen,Denmark,Midfielder,31,0,0
+Martin Braithwait,Denmark,Forward,30,1,0
+Andreas Skov Olsen,Denmark,Forward,21,1,0
+Kasper Dolberg,Denmark,Forward,23,0,0
+Mikkel Damsgaard,Denmark,Forward,20,0,0
+Jonas Wind,Denmark,Forward,22,1,0
+Yussuf Poulsen,Denmark,Forward,27,1,0
+Andreas Cornelius,Denmark,Forward,28,1,0
+Jordan Pickfor,England,Goalkeeper,27,1,0
+Aaron Ramsdale,England,Goalkeeper,23,0,0
+Sam Johnstone,England,Goalkeeper,28,0,0
+Kyle Walke,England,Defender,31,1,0
+Luke Sha,England,Defender,25,0,0
+John Stone,England,Defender,27,1,0
+Harry Maguir,England,Defender,28,0,0
+Kieran Trippier,England,Defender,30,1,0
+Tyrone Mings,England,Defender,28,1,0
+Conor Coady,England,Defender,28,0,0
+Ben Chilwell,England,Defender,24,0,0
+Ben White,England,Defender,23,0,0
+Reece James,England,Defender,21,0,0
+Declan Ric,England,Midfielder,22,1,0
+Jack Grealis,England,Midfielder,25,0,0
+Jordan Henderso,England,Midfielder,30,0,0
+Kalvin Phillips,England,Midfielder,25,1,0
+Jadon Sancho,England,Midfielder,21,0,0
+Mason Mount,England,Midfielder,22,1,0
+Phil Foden,England,Midfielder,21,1,0
+Bukayo Saka,England,Midfielder,19,0,0
+Jude Bellingham,England,Midfielder,17,1,0
+Harry Kan,England,Forward,27,1,0
+Raheem Sterling,England,Forward,26,1,1
+Marcus Rashford,England,Forward,23,1,0
+Dominic Calvert-Lewin,England,Forward,24,1,0
+Lukas Hradeck,Finland,Goalkeeper,31,2,1
+Jesse Joronen,Finland,Goalkeeper,28,0,0
+Anssi Jaakkola,Finland,Goalkeeper,34,0,0
+Paulus Arajuur,Finland,Defender,33,2,0
+Daniel O'Shaughness,Finland,Defender,26,2,0
+Joona Toivi,Finland,Defender,33,2,0
+Leo Väisäne,Finland,Defender,23,1,0
+Nicholas Hämäläinen,Finland,Defender,24,0,0
+Thomas Lam,Finland,Defender,27,0,0
+Jere Uronen,Finland,Defender,26,2,0
+Jukka Raitala,Finland,Defender,32,2,0
+Robert Ivanov,Finland,Defender,26,0,0
+Glen Kamar,Finland,Midfielder,25,2,0
+Robert Taylo,Finland,Midfielder,26,0,0
+Robin Lo,Finland,Midfielder,28,2,0
+Fredrik Jense,Finland,Midfielder,23,1,0
+Rasmus Schüller,Finland,Midfielder,29,2,0
+Pyry Soiri,Finland,Midfielder,26,1,0
+Tim Sparv,Finland,Midfielder,34,1,0
+Nikolai Alho,Finland,Midfielder,28,0,0
+Joni Kauko,Finland,Midfielder,30,2,0
+Onni Valakari,Finland,Midfielder,21,0,0
+Teemu Pukki,Finland,Forward,31,2,0
+Joel Pohjanpalo,Finland,Forward,26,2,1
+Lassi Lappalainen,Finland,Forward,22,1,0
+Marcus Forss,Finland,Forward,21,1,0
+Hugo Llori,France,Goalkeeper,34,1,0
+Steve Mandanda,France,Goalkeeper,36,0,0
+Mike Maignan,France,Goalkeeper,25,0,0
+Benjamin Pavar,France,Defender,25,1,0
+Presnel Kimpemb,France,Defender,25,1,0
+Raphaël Varan,France,Defender,28,1,0
+Clément Lengle,France,Defender,25,0,0
+Kurt Zouma,France,Defender,26,0,0
+Lucas Digne,France,Defender,27,0,0
+Lucas Hernández,France,Defender,25,1,0
+Léo Dubois,France,Defender,26,0,0
+Jules Koundé,France,Defender,22,0,0
+Paul Pogb,France,Midfielder,28,1,0
+Thomas Lema,France,Midfielder,25,0,0
+Corentin Tolisso,France,Midfielder,26,1,0
+N'Golo Kanté,France,Midfielder,30,1,0
+Adrien Rabiot,France,Midfielder,26,1,0
+Moussa Sissoko,France,Midfielder,31,0,0
+Kingsley Coman,France,Midfielder,25,0,0
+Antoine Griezman,France,Forward,30,1,0
+Olivier Girou,France,Forward,34,0,0
+Kylian Mbappé,France,Forward,22,1,0
+Ousmane Dembélé,France,Forward,24,1,0
+Karim Benzema,France,Forward,33,1,0
+Wissam Ben Yedder,France,Forward,30,0,0
+Marcus Thuram,France,Forward,23,0,0
+Manuel Neue,Germany,Goalkeeper,35,1,1
+Bernd Leno,Germany,Goalkeeper,29,0,0
+Kevin Trapp,Germany,Goalkeeper,30,0,0
+Antonio Rüdige,Germany,Defender,28,1,0
+Marcel Halstenber,Germany,Defender,29,0,0
+Matthias Ginte,Germany,Defender,27,1,0
+Mats Hummel,Germany,Defender,32,1,0
+Niklas Süle,Germany,Defender,25,0,0
+Lukas Klostermann,Germany,Defender,25,0,0
+Robin Gosens,Germany,Defender,26,1,0
+Emre Can,Germany,Defender,27,1,0
+Robin Koch,Germany,Defender,24,0,0
+Christian Günter,Germany,Defender,28,0,0
+Joshua Kimmic,Germany,Midfielder,26,1,0
+Toni Kroo,Germany,Midfielder,31,1,0
+Serge Gnabry,Germany,Midfielder,25,1,0
+Jonas Hofmann,Germany,Midfielder,28,0,0
+Jamal Musiala,Germany,Midfielder,18,0,0
+Florian Neuhaus,Germany,Midfielder,24,0,0
+Leon Goretzka,Germany,Midfielder,26,0,0
+Leroy Sané,Germany,Midfielder,25,1,0
+İlkay Gündoğan,Germany,Midfielder,30,1,0
+Kai Havert,Germany,Forward,22,1,0
+Kevin Vollan,Germany,Forward,28,1,0
+Timo Werner,Germany,Forward,25,1,0
+Thomas Müller,Germany,Forward,31,1,0
+Péter Gulács,Hungary,Goalkeeper,31,1,3
+Dénes Dibusz,Hungary,Goalkeeper,30,0,0
+Ádám Bogdán,Hungary,Goalkeeper,33,0,0
+Ádám Lan,Hungary,Defender,28,0,0
+Ákos Kecské,Hungary,Defender,25,0,0
+Attila Szala,Hungary,Defender,23,1,0
+Attila Fiol,Hungary,Defender,31,1,0
+Willi Orbá,Hungary,Defender,28,1,0
+Loïc Nég,Hungary,Defender,30,1,0
+Gergő Lovrencsics,Hungary,Defender,32,1,0
+Endre Botka,Hungary,Defender,26,1,0
+Bendegúz Bolla,Hungary,Defender,21,0,0
+Ádám Nag,Hungary,Midfielder,25,1,0
+Tamás Cseri,Hungary,Midfielder,33,0,0
+András Schäfer,Hungary,Midfielder,22,1,0
+László Kleinheisler,Hungary,Midfielder,27,1,0
+Dániel Gazdag,Hungary,Midfielder,25,0,0
+Roland Varga,Hungary,Midfielder,31,1,0
+Dávid Sigér,Hungary,Midfielder,30,1,0
+Kevin Varga,Hungary,Midfielder,25,1,0
+Ádám Szala,Hungary,Forward,33,1,0
+Filip Holender,Hungary,Forward,26,0,0
+Roland Sallai,Hungary,Forward,24,1,0
+Nemanja Nikolić,Hungary,Forward,33,0,0
+Szabolcs Schön,Hungary,Forward,20,1,0
+János Hahn,Hungary,Forward,26,0,0
+Salvatore Sirig,Italy,Goalkeeper,34,0,0
+Gianluigi Donnarumma,Italy,Goalkeeper,22,2,0
+Alex Meret,Italy,Goalkeeper,24,0,0
+Giovanni Di Lorenz,Italy,Defender,27,2,0
+Giorgio Chiellin,Italy,Defender,36,2,0
+Leonardo Spinazzol,Italy,Defender,28,2,0
+Emerson,Italy,Defender,26,0,0
+Francesco Acerbi,Italy,Defender,33,1,0
+Leonardo Bonucci,Italy,Defender,34,2,0
+Alessandro Bastoni,Italy,Defender,22,0,0
+Alessandro Florenzi,Italy,Defender,30,1,0
+Rafael Tolói,Italy,Defender,30,0,0
+Manuel Locatell,Italy,Midfielder,23,2,1
+Marco Verratt,Italy,Midfielder,28,0,0
+Gaetano Castrovill,Italy,Midfielder,24,0,0
+Jorginh,Italy,Midfielder,29,2,0
+Matteo Pessina,Italy,Midfielder,24,0,0
+Federico Chiesa,Italy,Midfielder,23,1,0
+Bryan Cristante,Italy,Midfielder,26,1,0
+Nicolò Barella,Italy,Midfielder,24,2,0
+Federico Bernardeschi,Italy,Midfielder,27,1,0
+Andrea Belott,Italy,Forward,27,1,0
+Lorenzo Insigne,Italy,Forward,30,2,1
+Domenico Berardi,Italy,Forward,26,2,0
+Ciro Immobile,Italy,Forward,31,2,1
+Giacomo Raspadori,Italy,Forward,21,0,0
+Maarten Stekelenbur,Netherlands,Goalkeeper,38,1,2
+Tim Krul,Netherlands,Goalkeeper,33,0,0
+Marco Bizot,Netherlands,Goalkeeper,30,0,0
+Joël Veltma,Netherlands,Defender,29,1,0
+Matthijs de Lig,Netherlands,Defender,21,0,0
+Nathan Ak,Netherlands,Defender,26,1,0
+Owen Wijnda,Netherlands,Defender,21,1,0
+Stefan de Vri,Netherlands,Defender,29,1,0
+Patrick van Aanholt,Netherlands,Defender,30,1,0
+Daley Blind,Netherlands,Defender,31,1,0
+Denzel Dumfries,Netherlands,Defender,25,1,1
+Georginio Wijnaldu,Netherlands,Midfielder,30,1,1
+Quincy Promes,Netherlands,Midfielder,29,0,0
+Davy Klaassen,Netherlands,Midfielder,28,0,0
+Marten de Roon,Netherlands,Midfielder,30,1,0
+Ryan Gravenberch,Netherlands,Midfielder,19,0,0
+Donny van de Beek,Netherlands,Midfielder,24,0,0
+Frenkie de Jong,Netherlands,Midfielder,24,1,0
+Teun Koopmeiners,Netherlands,Midfielder,23,0,0
+Jurriën Timber,Netherlands,Midfielder,19,1,0
+Steven Berghui,Netherlands,Forward,29,0,0
+Luuk de Jon,Netherlands,Forward,30,1,0
+Memphis Depay,Netherlands,Forward,27,1,0
+Donyell Malen,Netherlands,Forward,22,1,0
+Wout Weghorst,Netherlands,Forward,28,1,1
+Cody Gakpo,Netherlands,Forward,22,0,0
+Stole Dimitrievsk,North Macedonia,Goalkeeper,27,1,3
+Risto Jankov,North Macedonia,Goalkeeper,22,0,0
+Damjan Siskovski,North Macedonia,Goalkeeper,26,0,0
+Egzon Bejtula,North Macedonia,Defender,27,1,0
+Gjoko Zajko,North Macedonia,Defender,26,0,0
+Kire Ristevsk,North Macedonia,Defender,30,0,0
+Visar Musli,North Macedonia,Defender,26,1,0
+Stefan Ristovski,North Macedonia,Defender,29,1,0
+Darko Velkovski,North Macedonia,Defender,25,1,0
+Arijan Adem,North Macedonia,Midfielder,30,1,0
+Ezgjan Aliosk,North Macedonia,Midfielder,29,1,0
+Ferhan Hasani,North Macedonia,Midfielder,30,0,0
+Tihomir Kostadinov,North Macedonia,Midfielder,25,1,0
+Boban Nikolov,North Macedonia,Midfielder,26,1,0
+Enis Bardi,North Macedonia,Midfielder,25,1,0
+Stefan Spirovski,North Macedonia,Midfielder,30,0,0
+Eljif Elmas,North Macedonia,Midfielder,21,1,0
+Darko Churlinov,North Macedonia,Midfielder,20,0,0
+Milan Ristovski,North Macedonia,Midfielder,23,1,0
+Ivan Tričkovsk,North Macedonia,Forward,34,1,0
+Aleksandar Trajkovsk,North Macedonia,Forward,28,1,0
+Goran Pandev,North Macedonia,Forward,37,1,1
+Vlatko Stojanovski,North Macedonia,Forward,24,0,0
+Krste Velkovski,North Macedonia,Forward,33,0,0
+Marjan Radeski,North Macedonia,Forward,26,0,0
+Daniel Avramovski,North Macedonia,Forward,26,0,0
+Wojciech Szczęsn,Poland,Goalkeeper,31,1,2
+Łukasz Skorupski,Poland,Goalkeeper,30,0,0
+Łukasz Fabiański,Poland,Goalkeeper,36,0,0
+Kamil Piątkowsk,Poland,Defender,20,0,0
+Tomasz Kędzior,Poland,Defender,27,0,0
+Jan Bednare,Poland,Defender,25,1,0
+Maciej Rybus,Poland,Defender,31,1,0
+Kamil Glik,Poland,Defender,33,1,0
+Bartosz Bereszyński,Poland,Defender,28,1,0
+Michał Helik,Poland,Defender,25,0,0
+Tymoteusz Puchacz,Poland,Defender,22,1,0
+Paweł Dawidowic,Poland,Midfielder,26,0,0
+Kacper Kozłowsk,Poland,Midfielder,17,0,0
+Karol Linett,Poland,Midfielder,26,1,1
+Grzegorz Krychowiak,Poland,Midfielder,31,1,0
+Mateusz Klich,Poland,Midfielder,31,1,0
+Jakub Moder,Poland,Midfielder,22,1,0
+Przemysław Płacheta,Poland,Midfielder,23,0,0
+Przemysław Frankowski,Poland,Midfielder,26,1,0
+Piotr Zieliński,Poland,Midfielder,27,1,0
+Kamil Jóźwiak,Poland,Midfielder,23,1,0
+Robert Lewandowsk,Poland,Forward,32,1,0
+Karol Świderski,Poland,Forward,24,1,0
+Dawid Kownacki,Poland,Forward,24,0,0
+Jakub Świerczok,Poland,Forward,28,0,0
+Rui Patríci,Portugal,Goalkeeper,33,1,0
+Anthony Lopes,Portugal,Goalkeeper,30,0,0
+Rui Silva,Portugal,Goalkeeper,27,0,0
+Nélson Semed,Portugal,Defender,27,1,0
+Pep,Portugal,Defender,38,1,0
+Rúben Dia,Portugal,Defender,24,1,0
+Raphaël Guerreir,Portugal,Defender,27,1,1
+José Font,Portugal,Defender,37,0,0
+Diogo Dalot,Portugal,Defender,22,0,0
+Nuno Mendes,Portugal,Defender,18,0,0
+João Moutinh,Portugal,Midfielder,34,1,0
+Bernardo Silva,Portugal,Midfielder,26,1,0
+Bruno Fernandes,Portugal,Midfielder,26,1,0
+Danilo,Portugal,Midfielder,29,1,0
+William Carvalho,Portugal,Midfielder,29,1,0
+Renato Sanches,Portugal,Midfielder,23,1,0
+Gonçalo Guedes,Portugal,Midfielder,24,0,0
+Rúben Neves,Portugal,Midfielder,24,0,0
+Pedro Gonçalves,Portugal,Midfielder,22,0,0
+Sérgio Oliveira,Portugal,Midfielder,29,0,0
+João Palhinha,Portugal,Midfielder,25,0,0
+Cristiano Ronald,Portugal,Forward,36,1,2
+André Silv,Portugal,Forward,25,1,0
+Rafa Silva,Portugal,Forward,28,1,0
+Diogo Jota,Portugal,Forward,24,1,0
+João Félix,Portugal,Forward,21,0,0
+Anton Shuni,Russia,Goalkeeper,34,1,3
+Yuri Dyupin,Russia,Goalkeeper,33,0,0
+Matvei Safonov,Russia,Goalkeeper,22,1,0
+Mário Fernande,Russia,Defender,30,2,0
+Igor Divee,Russia,Defender,21,2,0
+Vyacheslav Karavae,Russia,Defender,26,2,0
+Andrei Semeno,Russia,Defender,32,1,0
+Fedor Kudryashov,Russia,Defender,34,0,0
+Georgi Dzhikiya,Russia,Defender,27,2,0
+Roman Evgenyev,Russia,Defender,22,0,0
+Denis Cheryshe,Russia,Midfielder,30,1,0
+Magomed Ozdoe,Russia,Midfielder,28,2,0
+Dmitri Barino,Russia,Midfielder,24,2,0
+Roman Zobnin,Russia,Midfielder,27,2,0
+Aleksei Miranchuk,Russia,Midfielder,25,2,1
+Aleksandr Golovin,Russia,Midfielder,25,2,0
+Yuri Zhirkov,Russia,Midfielder,37,1,0
+Rifat Zhemaletdinov,Russia,Midfielder,24,1,0
+Aleksei Ionov,Russia,Midfielder,32,0,0
+Daniil Fomin,Russia,Midfielder,24,0,0
+Daler Kuzyaev,Russia,Midfielder,28,2,0
+Denis Makarov,Russia,Midfielder,23,0,0
+Maksim Mukhin,Russia,Midfielder,19,2,0
+Aleksandr Sobole,Russia,Forward,24,1,0
+Anton Zabolotny,Russia,Forward,30,0,0
+Artem Dzyuba,Russia,Forward,32,2,0
+David Marshal,Scotland,Goalkeeper,36,1,2
+Craig Gordon,Scotland,Goalkeeper,38,0,0
+Jon McLaughlin,Scotland,Goalkeeper,33,0,0
+Stephen O'Donnel,Scotland,Defender,29,1,0
+Andrew Robertso,Scotland,Defender,27,1,0
+Grant Hanle,Scotland,Defender,29,1,0
+Kieran Tierne,Scotland,Defender,24,0,0
+Greg Taylor,Scotland,Defender,23,0,0
+Declan Gallagher,Scotland,Defender,30,0,0
+Liam Cooper,Scotland,Defender,29,1,0
+Nathan Patterson,Scotland,Defender,19,0,0
+Jack Hendry,Scotland,Defender,26,1,0
+Scott McKenna,Scotland,Defender,24,0,0
+Scott McTomina,Scotland,Midfielder,24,1,0
+John McGin,Scotland,Midfielder,26,1,0
+Callum McGrego,Scotland,Midfielder,28,1,0
+Ryan Christie,Scotland,Midfielder,26,1,0
+John Fleck,Scotland,Midfielder,29,0,0
+Stuart Armstrong,Scotland,Midfielder,29,1,0
+David Turnbull,Scotland,Midfielder,21,0,0
+Ryan Fraser,Scotland,Midfielder,27,1,0
+Billy Gilmour,Scotland,Midfielder,20,0,0
+James Forrest,Scotland,Midfielder,29,1,0
+Lyndon Dyke,Scotland,Forward,25,1,0
+Ché Adams,Scotland,Forward,24,1,0
+Kevin Nisbet,Scotland,Forward,24,1,0
+Martin Dúbravk,Slovakia,Goalkeeper,32,1,1
+Dušan Kuciak,Slovakia,Goalkeeper,36,0,0
+Marek Rodák,Slovakia,Goalkeeper,24,0,0
+Peter Pekarí,Slovakia,Defender,34,1,0
+Denis Vavr,Slovakia,Defender,25,0,0
+Martin Valjen,Slovakia,Defender,25,0,0
+Ľubomír Šatk,Slovakia,Defender,25,1,0
+Milan Škriniar,Slovakia,Defender,26,1,1
+Tomáš Hubočan,Slovakia,Defender,35,1,0
+Dávid Hancko,Slovakia,Defender,23,0,0
+Martin Koscelník,Slovakia,Defender,26,1,0
+Ján Gregu,Slovakia,Midfielder,30,1,0
+Vladimír Weis,Slovakia,Midfielder,31,0,0
+Ondrej Dud,Slovakia,Midfielder,26,1,0
+Tomáš Suslov,Slovakia,Midfielder,19,1,0
+László Bénes,Slovakia,Midfielder,23,0,0
+Patrik Hrošovský,Slovakia,Midfielder,29,1,0
+Marek Hamšík,Slovakia,Midfielder,33,1,0
+Lukáš Haraslín,Slovakia,Midfielder,25,1,0
+Juraj Kucka,Slovakia,Midfielder,34,1,0
+Stanislav Lobotka,Slovakia,Midfielder,26,0,0
+Jakub Hromada,Slovakia,Midfielder,25,1,0
+Róbert Božení,Slovakia,Forward,21,0,0
+Róbert Mak,Slovakia,Forward,30,1,0
+Michal Ďuriš,Slovakia,Forward,33,1,0
+Ivan Schranz,Slovakia,Forward,27,0,0
+David de Ge,Spain,Goalkeeper,30,0,0
+Robert Sánchez,Spain,Goalkeeper,23,0,0
+Unai Simón,Spain,Goalkeeper,24,1,0
+César Azpilicuet,Spain,Defender,31,0,0
+Diego Llorent,Spain,Defender,27,0,0
+Pau Torre,Spain,Defender,24,1,0
+Eric García,Spain,Defender,20,0,0
+José Gayà,Spain,Defender,26,0,0
+Jordi Alba,Spain,Defender,32,1,0
+Aymeric Laporte,Spain,Defender,27,1,0
+Sergio Busquet,Spain,Midfielder,32,0,0
+Marcos Llorent,Spain,Midfielder,26,1,0
+Kok,Spain,Midfielder,29,1,0
+Thiago Alcántara,Spain,Midfielder,30,1,0
+Ferran Torres,Spain,Midfielder,21,1,0
+Rodri,Spain,Midfielder,24,1,0
+Fabián Ruiz,Spain,Midfielder,25,1,0
+Dani Olmo,Spain,Midfielder,23,1,0
+Adama Traoré,Spain,Midfielder,25,0,0
+Pablo Sarabia,Spain,Midfielder,29,1,0
+Álvaro Morat,Spain,Forward,28,1,0
+Gerard Moren,Spain,Forward,29,1,0
+Mikel Oyarzabal,Spain,Forward,24,1,0
+Pedri,Spain,Forward,18,1,0
+Robin Olse,Sweden,Goalkeeper,31,1,0
+Karl-Johan Johnsson,Sweden,Goalkeeper,31,0,0
+Kristoffer Nordfeldt,Sweden,Goalkeeper,31,0,0
+Mikael Lusti,Sweden,Defender,34,1,0
+Victor Lindelö,Sweden,Defender,26,1,0
+Andreas Granqvis,Sweden,Defender,36,0,0
+Pierre Bengtsso,Sweden,Defender,33,1,0
+Ludwig Augustinsso,Sweden,Defender,27,1,0
+Filip Helander,Sweden,Defender,28,0,0
+Emil Krafth,Sweden,Defender,26,1,0
+Pontus Jansson,Sweden,Defender,30,0,0
+Marcus Danielson,Sweden,Defender,32,1,0
+Sebastian Larsso,Sweden,Midfielder,36,1,0
+Albin Ekda,Sweden,Midfielder,31,1,0
+Emil Forsberg,Sweden,Midfielder,29,1,0
+Gustav Svensson,Sweden,Midfielder,34,0,0
+Ken Sema,Sweden,Midfielder,27,0,0
+Viktor Claesson,Sweden,Midfielder,29,1,0
+Mattias Svanberg,Sweden,Midfielder,22,0,0
+Kristoffer Olsson,Sweden,Midfielder,25,1,0
+Dejan Kulusevski,Sweden,Midfielder,21,0,0
+Robin Quaison,Sweden,Midfielder,27,1,0
+Jens-Lys Cajuste,Sweden,Midfielder,21,1,0
+Marcus Ber,Sweden,Forward,34,1,0
+Alexander Isak,Sweden,Forward,21,1,0
+Jordan Larsson,Sweden,Forward,23,0,0
+Yann Somme,Switzerland,Goalkeeper,32,2,2
+Yvon Mvogo,Switzerland,Goalkeeper,27,0,0
+Gregor Kobel,Switzerland,Goalkeeper,23,0,0
+Kevin Mbab,Switzerland,Defender,26,2,0
+Silvan Widme,Switzerland,Defender,28,0,0
+Nico Elved,Switzerland,Defender,24,2,0
+Manuel Akanj,Switzerland,Defender,25,2,0
+Ricardo Rodríguez,Switzerland,Defender,28,2,0
+Loris Benito,Switzerland,Defender,29,0,0
+Fabian Schär,Switzerland,Defender,29,2,0
+Becir Omeragic,Switzerland,Defender,19,0,0
+Eray Cömert,Switzerland,Defender,23,0,0
+Jordan Lotomba,Switzerland,Defender,22,0,0
+Denis Zakari,Switzerland,Midfielder,24,1,0
+Remo Freule,Switzerland,Midfielder,29,2,0
+Granit Xhaka,Switzerland,Midfielder,28,2,0
+Ruben Vargas,Switzerland,Midfielder,22,0,0
+Steven Zuber,Switzerland,Midfielder,29,0,0
+Djibril Sow,Switzerland,Midfielder,24,0,0
+Christian Fassnacht,Switzerland,Midfielder,27,0,0
+Edimilson Fernandes,Switzerland,Midfielder,25,0,0
+Xherdan Shaqiri,Switzerland,Midfielder,29,2,0
+Breel Embol,Switzerland,Forward,24,2,1
+Haris Seferovi,Switzerland,Forward,29,2,0
+Admir Mehmedi,Switzerland,Forward,30,0,0
+Mario Gavranović,Switzerland,Forward,31,2,0
+Mert Güno,Turkey,Goalkeeper,32,0,0
+Altay Bayındır,Turkey,Goalkeeper,23,0,0
+Uğurcan Çakır,Turkey,Goalkeeper,25,2,5
+Zeki Çeli,Turkey,Defender,24,2,0
+Merih Demira,Turkey,Defender,23,2,0
+Çağlar Söyünc,Turkey,Defender,25,2,0
+Umut Meraş,Turkey,Defender,25,2,0
+Ozan Kabak,Turkey,Defender,21,0,0
+Rıdvan Yılmaz,Turkey,Defender,20,0,0
+Kaan Ayhan,Turkey,Defender,26,2,0
+Mert Müldür,Turkey,Defender,22,1,0
+Okay Yokuşl,Turkey,Midfielder,27,2,0
+Ozan Tufa,Turkey,Midfielder,26,2,0
+Dorukhan Tokö,Turkey,Midfielder,25,0,0
+Hakan Çalhanoğlu,Turkey,Midfielder,27,2,0
+Taylan Antalyalı,Turkey,Midfielder,26,0,0
+Orkun Kökçü,Turkey,Midfielder,20,0,0
+Abdülkadir Ömür,Turkey,Midfielder,21,0,0
+İrfan Can Kahveci,Turkey,Midfielder,25,2,0
+M. Kerem Aktürkoğlu,Turkey,Midfielder,22,0,0
+Halil Dervişoğlu,Turkey,Midfielder,21,2,0
+Cengiz Ünde,Turkey,Forward,23,2,0
+Kenan Karama,Turkey,Forward,27,2,0
+Yusuf Yazıcı,Turkey,Forward,24,2,0
+Enes Ünal,Turkey,Forward,24,0,0
+Burak Yılmaz,Turkey,Forward,35,2,0
+Georgiy Bushcha,Ukraine,Goalkeeper,27,1,3
+Andriy Pyatov,Ukraine,Goalkeeper,36,0,0
+Anatolii Trubin,Ukraine,Goalkeeper,19,0,0
+Eduard Sobo,Ukraine,Defender,26,0,0
+Serhiy Kryvtso,Ukraine,Defender,30,0,0
+Illia Zabarnyi,Ukraine,Defender,18,1,0
+Vitaliy Mykolenko,Ukraine,Defender,22,1,0
+Oleksandr Zinchenko,Ukraine,Defender,24,1,0
+Oleksandr Karavaev,Ukraine,Defender,29,1,0
+Mykola Matviyenko,Ukraine,Defender,25,1,0
+Oleksandr Tymchyk,Ukraine,Defender,24,0,0
+Denys Popov,Ukraine,Defender,22,0,0
+Georgiy Sudako,Ukraine,Midfielder,18,0,0
+Serhiy Sydorchu,Ukraine,Midfielder,30,1,0
+Taras Stepanenk,Ukraine,Midfielder,31,0,0
+Ruslan Malinovsky,Ukraine,Midfielder,28,1,0
+Mykola Shaparenko,Ukraine,Midfielder,22,1,0
+Marlos,Ukraine,Midfielder,33,1,0
+Yevhen Makarenko,Ukraine,Midfielder,30,0,0
+Viktor Tsygankov,Ukraine,Midfielder,23,0,0
+Roman Bezus,Ukraine,Midfielder,30,0,0
+Andriy Yarmolenk,Ukraine,Forward,31,1,1
+Roman Yaremchu,Ukraine,Forward,25,1,1
+Artem Besedin,Ukraine,Forward,25,0,0
+Oleksandr Zubkov,Ukraine,Forward,24,1,0
+Artem Dovbyk,Ukraine,Forward,23,0,0
+Wayne Hennesse,Wales,Goalkeeper,34,0,0
+Danny Ward,Wales,Goalkeeper,27,2,1
+Adam Davies,Wales,Goalkeeper,28,0,0
+Chris Gunte,Wales,Defender,31,0,0
+Neco William,Wales,Defender,20,1,0
+Ben Davie,Wales,Defender,28,2,0
+Tom Lockye,Wales,Defender,26,0,0
+Joe Rodo,Wales,Defender,23,2,0
+Connor Roberts,Wales,Defender,25,2,1
+Ethan Ampadu,Wales,Defender,20,2,0
+Rhys Norrington-Davies,Wales,Defender,22,0,0
+Chris Mepham,Wales,Defender,23,2,0
+Ben Cabango,Wales,Defender,21,0,0
+Joe Alle,Wales,Midfielder,31,2,0
+Harry Wilso,Wales,Midfielder,24,1,0
+Aaron Ramsey,Wales,Midfielder,30,2,1
+Joe Morrell,Wales,Midfielder,24,2,0
+Jonny Williams,Wales,Midfielder,27,0,0
+David Brooks,Wales,Midfielder,23,1,0
+Daniel James,Wales,Midfielder,23,2,0
+Dylan Levitt,Wales,Midfielder,20,0,0
+Rubin Colwill,Wales,Midfielder,19,0,0
+Matthew Smith,Wales,Midfielder,21,0,0
+Tyler Robert,Wales,Forward,22,0,0
+Gareth Bale,Wales,Forward,31,2,0
+Kieffer Moore,Wales,Forward,28,2,1
